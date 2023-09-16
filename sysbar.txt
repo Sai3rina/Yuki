@@ -1,0 +1,8180 @@
+﻿442: ₓₓ００
+---
+443: ₓₓ０１
+---
+444: ₓₓₓₓ１４ₓ
+---
+445: ₓₓₓₓ１５ₓ
+---
+446: ₓₓₓₓ１６ₓ
+---
+447: ₓₓₓₓ１７ₓ
+---
+448: ₓₓ０６
+---
+449: ₓₓₓₓ９ₓ
+---
+450: ₓₓₓₓ１０ₓ
+---
+451: ₓₓₓₓ１１ₓ
+---
+452: ₓₓₓₓ１２ₓ
+---
+453: ₓₓₓₓ１３ₓ
+---
+454: ₓₓ１２
+---
+455: ₓₓ１３
+---
+456: ₓₓ１４
+---
+457: ₓₓₓₓ１ₓ
+---
+458: ₓₓₓₓ２ₓ
+---
+459: ₓₓₓₓ３ₓ
+---
+460: ₓₓₓₓ４ₓ
+---
+461: ₓₓₓₓ５ₓ
+---
+462: ₓₓₓₓ６ₓ
+---
+463: ₓₓₓₓ７ₓ
+---
+464: ₓₓₓₓ８ₓ
+---
+465: ₓₓ２３
+---
+466: ₓₓ２４
+---
+467: ₓₓ２５
+---
+468: ₓₓ２６
+---
+469: ₓₓ２７
+---
+470: ₓₓ２８
+---
+471: ₓₓ２９
+---
+472: ₓₓ３０
+---
+473: ₓₓₓ３
+---
+474: ₓₓ３２
+---
+475: ₓₓ３３
+---
+476: ₓₓ３４
+---
+477: ₓₓ３５
+---
+478: ₓₓ３６
+---
+479: -
+---
+480: Attack
+---
+481: Magic
+---
+482: Items
+---
+483: Drive
+---
+484: Revert
+---
+485: Valor Form
+---
+486: Wisdom Form
+---
+487: Master Form
+---
+488: Final Form
+---
+489: Antiform
+---
+490: Talk
+---
+491: Examine
+---
+492: Reversal
+---
+493: Full Swing
+---
+494: Tackle
+---
+495: Snag
+---
+496: Sparkle Ray
+---
+497: Open
+---
+498: Agrabah
+---
+499: Bazaar
+---
+500: The Peddler´s Shop
+---
+501: The Palace
+---
+502: Vault
+---
+503: Above Agrabah
+---
+504: Palace Walls
+---
+505: The Cave of Wonders: Entrance
+---
+507: The Cave of Wonders: Stone Guardians
+---
+508: The Cave of Wonders: Treasure Room
+---
+509: Ruined Chamber
+---
+510: The Cave of Wonders: Valley of Stone
+---
+511: {:width 95}The Cave of Wonders: Chasm of Challenges
+---
+512: Sandswept Ruins
+---
+513: The Peddler´s Shop
+---
+514: Entrance Hall
+---
+515: Parlor
+---
+516: Belle´s Room
+---
+517: The Beast´s Room
+---
+518: Ballroom
+---
+519: Ballroom
+---
+520: Courtyard
+---
+521: The East Wing
+---
+522: The West Hall
+---
+523: The West Wing
+---
+524: Dungeon
+---
+525: Undercroft
+---
+526: Secret Passage
+---
+527: Bridge
+---
+528: Ballroom
+---
+529: World ZZ
+---
+530: End of Sea
+---
+531: Twilight Town
+---
+532: Destiny Islands
+---
+533: Hollow Bastion
+---
+534: Beast´s Castle
+---
+535: Olympus Coliseum
+---
+536: Agrabah
+---
+537: The Land of Dragons
+---
+538: 100 Acre Wood
+---
+539: Pride Lands
+---
+540: Atlantica
+---
+541: Disney Castle
+---
+542: Timeless River
+---
+543: Halloween Town
+---
+544: World FA
+---
+545: Port Royal
+---
+546: Space Paranoids
+---
+547: The World That Never Was
+---
+548: Asteroid Sweep
+---
+549: Stardust Sweep
+---
+550: Broken Highway
+---
+551: Ancient Highway
+---
+552: Phantom Storm
+---
+553: Sunlight Storm
+---
+554: Splash Island
+---
+555: Floating Island
+---
+556: Assault of the Dreadnought
+---
+563: Audience Chamber
+---
+564: Library
+---
+565: Colonnade
+---
+566: Courtyard
+---
+567: The Hall of the Cornerstone
+---
+568: The Hall of the Cornerstone
+---
+569: Gummi Hangar
+---
+570: The Wilderness
+---
+571: Triton´s Throne
+---
+572: Ariel´s Grotto
+---
+573: Undersea Courtyard
+---
+574: Undersea Courtyard
+---
+575: The Palace: Performance Hall
+---
+576: Sunken Ship
+---
+577: The Shore
+---
+578: The Shore
+---
+579: Bamboo Grove
+---
+580: Encampment
+---
+581: Checkpoint
+---
+582: Mountain Trail
+---
+583: Village
+---
+584: Village Cave
+---
+585: Ridge
+---
+586: Summit
+---
+587: Imperial Square
+---
+588: Palace Gate
+---
+589: Antechamber
+---
+590: Throne Room
+---
+591: Village
+---
+592: Pit Cell
+---
+593: Canyon
+---
+594: Game Grid
+---
+595: Dataspace
+---
+596: I/O Tower: Hallway
+---
+597: I/O Tower: Communications Room
+---
+598: Simulation Hangar
+---
+599: Solar Sailer Simulation
+---
+600: Central Computer Mesa
+---
+601: Central Computer Core
+---
+602: Solar Sailer Simulation
+---
+603: Pride Rock
+---
+604: Stone Hollow
+---
+605: The King´s Den
+---
+606: Wildebeest Valley
+---
+607: The Savannah
+---
+608: Elephant Graveyard
+---
+609: Gorge
+---
+610: Wastelands
+---
+611: Jungle
+---
+612: Oasis
+---
+613: Pride Rock
+---
+614: Oasis
+---
+615: Overlook
+---
+616: Peak
+---
+617: The Hundred Acre Wood
+---
+618: Starry Hill
+---
+619: Pooh Bear´s House
+---
+620: Rabbit´s House
+---
+621: Piglet´s House
+---
+622: Kanga´s House
+---
+623: A Windsday Tale
+---
+624: The Honey Hunt
+---
+625: Blossom Valley
+---
+626: The Spooky Cave
+---
+632: Goofy:
+We have to help them!
+---
+633: Dummy text
+---
+634: Sora:
+We´ve got to get to the palace!
+---
+635: 
+---
+636: Sora:
+This can´t be right...
+---
+637: 
+---
+638: Sora:
+C´mon, let´s follow Aladdin!
+---
+639: 
+---
+642: Ping:
+We need permission from
+the Captain.
+---
+643: ₓₓₓ
+---
+644: Ping:
+We can´t go into the city
+right now.
+---
+645: ₓₓₓ
+---
+648: Mulan:
+We better not. We don´t want
+to make anyone angry.
+---
+649: ₓₓₓ
+---
+652: Mulan:
+Something´s not right. We can´t
+go in from here.
+---
+653: ₓₓₓ
+---
+662: Sora:
+I don´t think it´s going to open.
+---
+663: 
+---
+664: Sora:
+We´ve got to help her!
+---
+665: ₓₓₓ
+---
+666: Sora:
+We´ve got to help her!
+---
+667: ₓₓₓ
+---
+668: Sora:
+This isn´t the way to Hades.
+---
+669: ₓₓₓ
+---
+672: Auron:
+It´s too dangerous to go back now.
+---
+673: ₓₓₓ
+---
+674: Sora:
+ₓₓₓ
+---
+675: ₓₓₓ
+---
+676: Sora:
+But what about Cerberus?
+---
+677: ₓₓₓ
+---
+678: Sora:
+ₓₓₓ
+---
+679: ₓₓₓ
+---
+680: Sora:
+Poor Hercules...we can´t
+just leave him.
+---
+681: ₓₓₓ
+---
+682: Sora:
+Hercules is in a match right now!
+---
+683: ₓₓₓ
+---
+684: Sora:
+ₓₓₓ
+---
+685: ₓₓₓ
+---
+686: Cornerstone Hill
+---
+687: Pier
+---
+688: Waterway
+---
+689: Wharf
+---
+690: Lilliput
+---
+691: Building Site
+---
+692: Scene of the Fire
+---
+693: Mickey´s House
+---
+694: Villain´s Vale
+---
+695: The Dark Margin
+---
+696: ???
+---
+697: Halloween Town Square
+---
+698: Dr. Finklestein´s Lab
+---
+699: Graveyard
+---
+700: Curly Hill
+---
+701: Hinterlands
+---
+702: Yuletide Hill
+---
+703: Candy Cane Lane
+---
+704: Christmas Tree Plaza
+---
+705: Santa´s House
+---
+706: Toy Factory: Shipping and Receiving
+---
+707: Toy Factory: The Wrapping Room
+---
+708: The Coliseum
+---
+709: Coliseum Gates
+---
+710: Coliseum Gates
+---
+711: Underworld Entrance
+---
+712: Coliseum Foyer
+---
+713: Valley of the Dead
+---
+714: Hades´ Chamber
+---
+715: Cave of the Dead: Entrance
+---
+716: Well of Captivity
+---
+717: The Underdrome
+---
+718: Cave of the Dead: Inner Chamber
+---
+719: Underworld Caverns: Entrance
+---
+720: The Lock
+---
+721: The Underdrome
+---
+722: Coliseum Gates
+---
+723: Cave of the Dead: Passage
+---
+724: Underworld Caverns: The Lost Road
+---
+725: Underworld Caverns: Atrium
+---
+726: Villain´s Vale
+---
+727: The Dark Depths
+---
+728: The Great Maw
+---
+729: Crystal Fissure
+---
+730: Castle Gate
+---
+731: Ansem´s Study
+---
+732: Postern
+---
+733: Restoration Site
+---
+734: Bailey
+---
+735: Borough
+---
+736: Beach
+---
+737: Main Island: Ocean´s Road
+---
+738: Main Island: Shore
+---
+739: The Empty Realm
+---
+740: Roxas´s Room
+---
+741: The Usual Spot
+---
+742: Back Alley
+---
+743: Sandlot
+---
+744: Rampart
+---
+745: Harbor
+---
+746: Town
+---
+747: The Interceptor
+---
+748: The Interceptor: Ship´s Hold
+---
+749: The Black Pearl
+---
+750: The Black Pearl: Captain´s Stateroom
+---
+751: The Interceptor
+---
+752: Isla de Muerta: Rock Face
+---
+753: Isla de Muerta: Cave Mouth
+---
+754: Isla de Muerta: Treasure Heap
+---
+755: Ship Graveyard: The Interceptor´s Hold
+---
+756: Isla de Muerta: Powder Store
+---
+757: Isla de Muerta: Moonlight Nook
+---
+758: Ship Graveyard: Seadrift Keep
+---
+759: Ship Graveyard: Seadrift Row
+---
+760: Potion
+---
+761: Restores 40% of the target´s HP.
+An equippable item.
+---
+762: Hi-Potion
+---
+763: Restores 60% of the target´s HP.
+An equippable item.
+---
+764: Ether
+---
+765: {:width 90}Fully restores target´s MP. Restores Charge
+Gauge during MP Charge. An equippable item.{:reset}
+---
+766: Elixir
+---
+767: Fully restores target´s HP and MP.
+An equippable item.
+---
+768: Mega-Potion
+---
+769: Restores 40% of the Party´s HP.
+An equippable item.
+---
+770: Mega-Ether
+---
+771: {:width 90}Fully restores Party´s MP. Restores Charge
+Gauge during MP Charge. An equippable item.{:reset}
+---
+772: Megalixir
+---
+773: Fully restores Party´s HP and MP.
+An equippable item.
+---
+1093: {:position 30,28}OK
+---
+1094: {:position 30,28}Yes
+---
+1095: {:position 25,28}No
+---
+1096: –––
+---
+1097: 	None
+---
+1098: There are no items.
+---
+1099: Items
+---
+1100: Equip
+---
+1101: Abilities
+---
+1102: Party
+---
+1103: Status
+---
+1104: Journal
+---
+1105: Customize
+---
+1106: Option
+---
+1107: Make a Selection.
+---
+1108: {:icon dynamic-triangle}
+---
+1109: Stock
+---
+1110: Use
+---
+1111: Throw away
+---
+1112: Not Used
+---
+1113: Select item.
+---
+1114: There are no items.
+---
+1115: Weapons
+---
+1116: Change main weapon.
+---
+1117: Valor
+---
+1118: Change Sub-Weapon used in Valor Form.
+---
+1119: Master
+---
+1120: Change Sub-Weapon used in Master Form.
+---
+1121: Final
+---
+1122: Change Sub-Weapon used in Final Form.
+---
+1123: Armor
+---
+1124: Change Armor.
+---
+1125: Accessories
+---
+1126: Change Accessories.
+---
+1127: Items
+---
+1128: Change Items.
+---
+1129: Unequip items.
+---
+1130: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+ If the {:icon auto-equip}{:color #00FF0080}auto-reload{:reset} function is turned
+ off for this item, all equipped items of 
+ the same type will be unequipped also.
+ Turn {:icon auto-equip}{:color #00FF0080}auto-reload{:reset} function Off?
+---
+1131: Select Party Member.
+---
+1132: Switch Party Member.
+---
+1133: {:color #F0F00080}Party Members have been switched.{:reset}
+---
+1134: Party In
+---
+1135: Party Out
+---
+1136: Goofy´s equipment has been put in stock.
+---
+1137: Sparrow´s equipment has been put in stock.
+---
+1138: Auron´s equipment has been put in stock.
+---
+1139: Auron cannot be switched at this time.
+---
+1140: Mulan cannot be switched at this time.
+---
+1141: Aladdin cannot be switched at this time.※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※Beast cannot be switched at this time.
+---
+1142: Party Members cannot be switched and Summons cannot be
+used until the fight is settled.
+---
+1143: 
+---
+1144: Jack cannot be switched at this time.
+---
+1145: Simba cannot be switched at this time.
+---
+1146: Tron cannot be switched at this time.
+---
+1147: Riku cannot be switched at this time.
+---
+1148: Ping will be joining the party and cannot be
+switched out for some time.
+---
+1149: {:icon dynamic-circle}
+---
+1150: {:icon dynamic-triangle}
+---
+1151: {:icon dynamic-square}
+---
+1152: {:icon dynamic-cross}
+---
+1153: MP Charge
+---
+1154: Auto-Reload
+---
+1155: Battle Style
+---
+1156: Abilities
+---
+1158: {:icon ai-settings}Technic Attack
+---
+1159: {:icon ai-settings}Target Attack
+---
+1160: {:icon ai-settings}Huddle Attack
+---
+1161: {:icon ai-settings}Party Attack
+---
+1162: {:icon ai-settings}Sora Attack
+---
+1163: {:icon ai-settings}Relentless Attack
+---
+1164: Twin Howl
+---
+1165: Stalwart Fang
+---
+1166: Outcry
+---
+1167: Last Howl
+---
+1168: Bushido
+---
+1169: Shooting Star
+---
+1170: Banishing Blade
+---
+1171: Spiral
+---
+1172: Red Rocket
+---
+1173: Flametongue
+---
+1174: Heat Lance
+---
+1175: Red Meteor
+---
+1176: Whirli-Goof
+---
+1177: Whirli-Goofra
+---
+1178: Whirli-Goofga
+---
+1179: Ride the Wind
+---
+1180: Soar
+---
+1181: Cyclone
+---
+1182: Guard
+---
+1183: Kickback
+---
+1184: Full Swing
+---
+1185: Jump!
+---
+1186: Evade
+---
+1187: Dog Paddle
+---
+1188: Push
+---
+1189: Push Harder
+---
+1190: Waken
+---
+1191: Release
+---
+1192: Reversal
+---
+1193: Bump
+---
+1194: Meteor Spike
+---
+1195: Slide
+---
+1196: Vertigo Toss
+---
+1197: Hang On
+---
+1198: Let Go
+---
+1199: Connect
+---
+1200: Bat Cry
+---
+1201: Lance Tug
+---
+1202: Learn
+---
+1203: Jump
+---
+1204: Wake Up!
+---
+1205: Get Up!
+---
+1206: Charge
+---
+1207: Step Vault
+---
+1208: Slingshot
+---
+1209: Release
+---
+1210: Catch
+---
+1211: Pendulum Round
+---
+1212: Release
+---
+1213: Light
+---
+1214: Restore
+---
+1215: Sprinkle
+---
+1216: Vanquish
+---
+1217: Finish
+---
+1218: Open The Door
+---
+1219: Enter The Book
+---
+1220: Leave The Book
+---
+1221: Depart
+---
+1222: Warp
+---
+1223: Shop
+---
+1224: Approach
+---
+1225: Move
+---
+1226: Ask For Help
+---
+1227: Approach
+---
+1228: Persuade
+---
+1229: Report
+---
+1230: {:width 83}Ask About Missions
+---
+1231: {:width 90}Examine The Book
+---
+1232: Approach
+---
+1233: Tinker With It
+---
+1234: Approach
+---
+1235: Approach
+---
+1236: {:width 90}Enter Tournament
+---
+1237: {:width 90}Enter Tournament
+---
+1238: Stop
+---
+1239: {:width 75}Go To The Tournament
+---
+1240: {:width 90}Enter Tournament
+---
+1241: Help Her Up
+---
+1242: Train
+---
+1243: Approach
+---
+1244: Punish
+---
+1245: Greet
+---
+1246: Greet
+---
+1247: Rescue
+---
+1248: {:width 85}Ask For The Bottle
+---
+1249: Greet
+---
+1250: Cheer Up
+---
+1251: Approach
+---
+1252: Question
+---
+1253: Interrogate
+---
+1254: Depart
+---
+1255: ???
+---
+1256: Ask For Help
+---
+1257: Make Toys
+---
+1258: {:width 90}Access Computer
+---
+1259: {:width 90}Access Computer
+---
+1283: ?
+---
+1284: Summon
+---
+1285: Party
+---
+1286: Save
+---
+1287: Limit
+---
+1288: Fire
+---
+1289: Fira
+---
+1290: Firaga
+---
+1291: Thunder
+---
+1292: Thundara
+---
+1293: Thundaga
+---
+1294: Blizzard
+---
+1295: Blizzara
+---
+1296: Blizzaga
+---
+1297: Cure
+---
+1298: Cura
+---
+1299: Curaga
+---
+1300: Magnet
+---
+1301: Magnera
+---
+1302: Magnega
+---
+1303: Reflect
+---
+1304: Reflera
+---
+1305: Reflega
+---
+1308: Stitch
+---
+1309: Genie
+---
+1311: Sora
+---
+1312: Donald
+---
+1313: Goofy
+---
+1314: Mickey
+---
+1315: Auron
+---
+1316: Ping
+---
+1317: Mulan
+---
+1318: Aladdin
+---
+1319: Jack
+---
+1320: Beast
+---
+1321: Jack
+---
+1322: Simba
+---
+1323: Tron
+---
+1324: Riku
+---
+1325: Roxas
+---
+1331: Sora:
+I don´t think Aladdin´s this way.
+---
+1332: 
+---
+1333: Sora:
+The peddler´s shop isn´t that way...
+---
+1334: 
+---
+1335: Sora:
+The peddler´s shop isn´t this way...
+---
+1336: 
+---
+1337: Iago:
+Hey, what about me!?
+---
+1338: 
+---
+1339: Sora:
+We should talk to the Beast first.
+---
+1340: 
+---
+1341: Sora:
+We should talk to the Beast first.
+---
+1342: 
+---
+1343: Sora:
+We should talk to the Beast first.
+---
+1344: 
+---
+1345: Sora:
+We should talk to the Beast first.
+---
+1346: 
+---
+1347: Sora:
+I don´t think it´s going to open.
+---
+1348: ₓₓₓ
+---
+1349: Sora:
+It came from over there!
+---
+1350: 
+---
+1351: Sora:
+They´re headed into town!
+---
+1352: 
+---
+1353: Sora:
+Let´s go check out the cave.
+---
+1354: 
+---
+1357: Sora:
+
+---
+1358: 
+---
+1359: Sora:
+Wait for Will´s signal!
+---
+1360: 
+---
+1361: Sora:
+It sounded like it came from
+the port.
+---
+1362: 
+---
+1363: Sora:
+
+---
+1364: 
+---
+1365: Sora:
+
+---
+1366: 
+---
+1367: Sora:
+
+---
+1368: 
+---
+1369: Sora:
+
+---
+1370: 
+---
+1371: Sora:
+
+---
+1372: 
+---
+1373: Sora:
+
+---
+1374: 
+---
+1375: Minnie:
+That´s not the way to
+the audience chamber.
+---
+1376: 
+---
+1377: Sora:
+Gotta get to the audience
+chamber, fast!
+---
+1378: 
+---
+1379: Sora:
+Maybe the Queen should
+come with me.
+---
+1380: 
+---
+1381: Sora:
+Let´s go into the book
+and see Pooh!
+---
+1382: 
+---
+1385: Sora:
+ₓₓₓ
+---
+1386: ₓₓₓ
+---
+1387: Sora:
+ₓₓₓ
+---
+1388: ₓₓₓ
+---
+1389: Sora:
+
+---
+1390: 
+---
+1391: Sora:
+Scar must still be around...
+---
+1392: 
+---
+1393: Sora:
+But that´s Rafiki´s private space.
+---
+1394: 
+---
+1395: Sora:
+Creepy...let´s stay out of there.
+---
+1396: 
+---
+1397: Sora:
+Everyone´s waiting at Pride Rock!
+---
+1398: 
+---
+1399: Sora:
+We can´t go to the savannah.
+---
+1400: 
+---
+1401: Sora:
+We can´t go into the gorge.
+---
+1402: 
+---
+1403: Sora:
+Simba sure could use some
+cheering up.
+---
+1404: 
+---
+1405: Sora:
+How about we try that musical first?
+---
+1406: 
+---
+1407: Sora:
+C´mon, let´s follow Flounder!
+---
+1408: Sora:
+This isn´t the right way.
+---
+1409: ₓₓₓ
+---
+1410: Ping:
+What about our assignment?
+---
+1411: ₓₓₓ
+---
+1412: Mushu:
+Shan-Yu went into that cave!
+---
+1413: ₓₓₓ
+---
+1414: Sora:
+Hmm, looks like we can´t
+go this way.
+---
+1415: ₓₓₓ
+---
+1416: Sora:
+Let´s go see Dr. Finklestein.
+---
+1417: 
+---
+1418: Sora:
+Zero knows where to go!
+---
+1419: 
+---
+1420: Sora:
+Oogie´s blocked this way off!
+---
+1421: Oogie´s blocked this way off!
+---
+1422: Sora:
+Let´s go get those three jokers!
+---
+1423: 
+---
+1424: Sora:
+We can´t just go barging in.
+---
+1425: 
+---
+1426: Sora:
+It won´t open. Is he working
+on something?
+---
+1427: 
+---
+1428: Sora:
+We can´t get into the lab.
+---
+1429: 
+---
+1430: Sora:
+I don´t think Pooh is over
+this way.
+---
+1431: 
+---
+1432: Sora:
+I´d better hear what everyone
+has to say.
+---
+1433: Sora:
+I need to bring everyone along!
+---
+1434: Sora:
+Pete isn´t this way!
+---
+1435: 
+---
+1436: Sora:
+We´ll lose Pete if we
+don´t hurry!
+---
+1437: 
+---
+1438: {:icon exclamation-mark}Please reinsert the Kingdom Hearts {II} game disc.
+---
+1439: {:icon exclamation-mark}
+ₓₓₓₓ１ₓₓₓₓₓₓₓₓₓₓₓ２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ₓₓₓₓₓ ₓₓₓ {II}ₓₓₓₓₓₓₓₓₓₓₓₓ１３２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ ₓₓₓₓ ₓₓₓₓₓₓₓₓₓₓₓ
+---
+1440: {:icon exclamation-mark}
+ₓₓₓₓ２ₓₓₓₓₓₓₓₓₓₓₓ２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ₓₓₓₓₓ ₓₓₓ {II}ₓₓₓₓₓₓₓₓₓₓₓₓ１３２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ ₓₓₓₓ ₓₓₓₓₓₓₓₓₓₓₓ
+---
+1441: {:icon exclamation-mark}
+ₓₓₓₓ１ₓ２ₓₓₓₓₓₓₓₓₓₓₓ２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ₓₓₓₓₓ ₓₓₓ {II}ₓₓₓₓₓₓₓₓₓₓₓₓ１３２ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+ ₓₓₓₓ ₓₓₓₓₓₓₓₓₓₓₓ
+---
+1442: {:position 30,28}ₓₓ
+---
+1443: {:position 25,28}ₓₓₓ
+---
+1444: {:scale 14}{:width 90}Examine The Table
+{:width 80}Listen to the story
+{:width 80}Listen To The Story
+{:width 85}ask about Missions
+{:width 90}Examine The Book
+{:width 90}Access Computer
+{:width 90}Examine The Wall
+{:width 90}Go To The Rescue
+{:width 75}Go To The Tournament
+{:width 90}Enter Tournament
+{:width 85}Ask For The Bottle
+{:width 90}Access Computer
+{:width 90}Return Medallions
+{:clear }
+---
+1445: {:scale 14}Ride the Wind
+{:width 100}Soar
+{:width 100}Cyclone
+{:width 100}Bump
+{:width 100}Meteor Spike
+{:width 100}Slide
+{:width 100}Vertigo Toss
+{:width 100}Hang On
+{:width 100}Let Go
+{:width 100}Slingshot
+{:width 100}Catch
+{:width 100}Pendulum Round
+{:width 100}Release
+{:width 100}Aero Blade
+{:width 100}Speed Trap
+{:width 100}Dodge Roll
+{:width 100}Faith
+{:width 100}Call Over
+{:width 100}Set the jewel!
+{:width 100}Go, Abu!
+{:width 100}Jump!
+{:width 100}Step Vault
+{:width 100}Clear Shot
+{:width 100}Shift Shot
+{:width 100}Finish
+{:width 100}Key Counter
+{:width 100}Lunarsault
+{:width 100}Break Raid
+{:width 100}Vanquish
+{:width 100}Reversal
+{:width 100}Full Swing
+{:width 100}Snag
+{:width 100}{:clear }{:scale 14}Sparkle Ray
+{:width 100}Guard
+{:width 100}Kickback
+{:width 100}Full Swing
+{:width 100}Jump!
+{:width 100}Evade
+{:width 100}Dog Paddle
+{:width 100}Push
+{:width 100}Waken
+{:width 100}Release
+{:width 100}Reversal
+{:width 100}Bat Cry
+{:width 100}Lance Tug
+{:width 100}Learn
+{:width 100}Jump
+{:width 100}Wake Up!
+{:width 100}Get Up!
+{:width 100}Charge
+{:width 100}Release
+{:width 100}Light
+{:width 100}Restore
+{:width 100}Sprinkle
+{:width 100}Learn
+{:width 100}Press
+{:width 100}Takedown
+{:width 100}Launch
+{:width 100}Grab On
+{:width 100}Hang On
+{:width 100}Hit
+{:width 100}{:clear }{:scale 14}Fore!
+{:width 100}Move center
+{:width 100}Warp Snipe
+{:width 100}Rising Sun
+{:width 100}Duel Stance
+{:width 100}The End
+{:width 100}Fail-Safe
+{:width 100}Scapegoat
+{:width 100}Pinball
+{:width 100}Air Twister
+{:width 100}Tornado Ride
+{:width 100}Quick Blade
+{:width 100}Begin Game
+{:width 100}Stop Dice
+{:width 100}Aura Guard
+{:width 100}Root Ravager
+{:width 100}◯
+{:width 100}✕
+{:width 100}Hop On
+{:width 100}Heal Stomp
+{:width 100}Get Off
+{:width 100}Capsule Prize
+{:width 100}Rare Capsule
+{:width 100}Limited Capsule
+{:width 100}Ultra-Rare Capsule
+{:width 100}Wind Dance
+{:width 100}High Climb
+{:width 100}{:clear }{:scale 14}Needle Dive
+{:width 100}Pegasus Run
+{:width 100}Urninator
+{:width 100}Phil One-Two
+{:width 100}Juggle Parry
+{:width 100}Overhand
+{:width 100}Call Over
+{:width 100}Return Fire
+{:width 100}Backshuffle
+{:width 100}High Counter
+{:width 100}Rockshatter
+{:width 100}Stomp Bomb
+{:width 100}Air Slash
+{:width 100}Leap
+{:width 100}Dispel
+{:width 100}Rodeo
+{:width 100}Grand Cross
+{:width 100}Rapid Blow
+{:width 100}Capture
+{:width 100}Bolt Reversal
+{:width 100}Wild Dance
+{:width 100}Spin
+{:width 100}Forward March!
+{:width 100}Company Halt!
+{:width 100}Settle Down!
+{:width 100}Cannon Bomb
+{:width 100}Swing
+{:width 100}Release
+{:width 100}{:clear }{:scale 14}Jump
+{:width 100}Jump on
+{:width 100}Zone Guard
+{:width 100}Disc Strike
+{:width 100}Delete
+{:width 100}Cancel
+{:width 100}Replace
+{:width 100}Clear Light
+{:width 100}Burst Frontier
+{:width 100}Overtaker
+{:width 100}Inside Combo
+{:width 100}Hinder
+{:width 100}Post
+{:width 100}Deliver
+{:width 100}Aura Sphere
+{:width 100}Freeze
+{:width 100}Berserk
+{:width 100}Break  
+{:width 100}Recovery Run
+{:width 100}About-Face
+{:width 100}Show Stealer
+{:width 100}Jump on
+{:width 100}Jump
+{:width 100}Kickflip
+{:width 100}Ollie
+{:width 100}{:clear }{:scale 14}360°Spin
+{:width 100}Method Grab
+{:width 100}Air Walk
+{:width 100}Handstand
+{:width 100}Grind
+{:width 100}Ghost Ride
+{:width 100}Move Left
+{:width 100}Move Right
+{:width 100}Eclipse
+{:width 100}Magna Storm
+{:width 100}Loot Launch
+{:width 100}Vault
+{:width 100}Kickspring
+{:width 100}Stunt Dodge
+{:width 100}Dark Aura
+{:width 100}Dark Shield
+{:width 100}Hit
+{:width 100}Flip
+{:width 100}Slicer
+{:width 100}Escablade
+{:width 100}Sky Scraper
+{:width 100}Return Medallions
+{:width 100}Roll Up
+{:width 100}Spin Burst
+{:width 100}Tackle
+{:width 100}{:clear }{:scale 14}Push Harder
+{:width 100}Connect
+{:width 100}Land
+{:width 100}Reverse Blade
+{:width 100}Run Through
+{:width 100}Fend
+{:width 100}Firagun
+{:width 100}Blizzagun
+{:width 100}Counter
+{:width 100}Berserk
+{:width 100}Facedown
+{:width 100}Clash
+{:width 100}Break Through
+{:width 100}Finish
+{:width 100}Twin Counter
+{:width 100}Sonic Dive
+{:width 100}Proceed
+{:width 100}Riding Shot
+{:width 100}Meteor Rain
+{:width 100}Reflect
+{:width 100}Reflect
+{:width 100}Attack
+{:width 100}Dark Aura
+{:width 100}Rescue
+{:width 100}Megalaser
+{:width 100}Firagun
+{:width 100}Blizzagun
+{:width 100}Block
+{:width 100}Block
+{:width 100}{:clear }{:scale 14}
+---
+1446: {:unk13 FA 00 64 00}{:unk08 01 00 07}--°♩--INFORMATION
+-
+üà{VIII}{XIII}⭑Finalfantasy{:reset}{:clear }{:icon button-l1}TEST{:clear }
+---
+1447: {I}{II}{III}{IV}{V}{VI}{VII}{VIII}{IX}{X}{XIII}αβγ
+INFORMATION
+♫→←↑↓
+・❤{:delay 78 00}
+---
+1448: TEST444
+---
+1449: ‛Sora’`Donald´ "Sora" 'Donald' {:clear }-- - ??★☆■□{:clear }▲△●○♪
+♫→←↑↓
+・❤abcde‛’`'--★☆■□{:delay 78 00}{:clear }The punishment for high treason and
+dishonoring the Army...is death.
+
+
+---
+1452: Tent
+---
+1453: Fully restores Party´s HP and MP.
+Usable only from the Main Menu.
+---
+1474: Kingdom Key
+---
+1475: A keychain attached to the Keyblade.
+Halves damage taken in critical situations.
+---
+1476: Oathkeeper
+---
+1477: Enhances magic and increases
+the duration of a Drive Form.
+---
+1478: Oblivion
+---
+1479: Has great strength, and allows
+the Drive Gauge to restore quickly
+during MP Charge.
+---
+1480: Detection Saber
+---
+1481: The longest Keyblade available.
+Detect motion and movement with this
+weapon.
+---
+1482: Frontier of Ultima
+---
+1483: A familiar Keyblade to Sora called
+the Ultima Weapon.
+It can be used for checking movement.
+---
+1484: Antiform Dummy
+---
+1485: Dummy
+---
+1486: Mage´s Staff
+---
+1487: A staff fit for a mage.
+---
+1492: Knight´s Shield
+---
+1493: A shield fit for a knight.
+---
+1494: Detection Shield
+---
+1495: A shield crafted from all shields
+used for detecting motion.
+---
+1496: Test the King
+---
+1497: A powerful and familiar shield!
+---
+1498: Scimitar
+---
+1499: A sword, light as a feather,
+for quick attacks!
+---
+1500: Battlefields of War
+---
+1501: Deals various attacks.
+---
+1502: {:width 85}Sword of the Ancestor
+---
+1503: Useful when fighting close enemies.
+---
+1505: Dummy
+---
+1506: Identity Disk
+---
+1507: Attack enemies from afar.
+---
+1509: Dummy
+---
+1510: Beast´s Claw
+---
+1511:  
+---
+1512: Bone Fist
+---
+1513:  
+---
+1514: Proud Fang
+---
+1515:  
+---
+1516: {:width 91}Skill and Crossbones
+---
+1517: A pirate´s best friend, it can parry
+enemy attacks.
+---
+1518: Way to the Dawn
+---
+1519: Deals various attacks.
+---
+1522: Torn Pages
+---
+1523: Pages torn from Merlin´s book.
+Try placing them back in the book.
+---
+1532: Navigational Map
+---
+1533: Navigational map for debug mode.
+---
+1534: Castle Map
+---
+1535: A map of the area.
+---
+1536: Basement Map
+---
+1537: A map of the area.
+---
+1538: Castle Walls Map
+---
+1539: A map of the area.
+---
+1540: Coliseum Map
+---
+1541: A map of the area.
+---
+1542: Underworld Map
+---
+1543: A map of the area.
+---
+1544: Caverns Map
+---
+1545: A map of the area.
+---
+1546: Palace Map
+---
+1547: A map of the area.
+---
+1548: Encampment Area Map
+---
+1549: A map of the area.
+---
+1550: Village Area Map
+---
+1551: A map of the area.
+---
+1552: Cornerstone Hill Map
+---
+1553: A map of the area.
+---
+1554: Window of Time Map 2
+---
+1555: A map of the area.
+---
+1556: Lilliput Map
+---
+1557: A map of the area.
+---
+1558: Building Site Map
+---
+1559: A map of the area.
+---
+1560: Mickey´s House Map
+---
+1561: A map of the area.
+---
+1562: Disney Castle Map
+---
+1563: A map of the area.
+---
+1564: Agrabah Map
+---
+1565: A map of the area.
+---
+1566: Cave of Wonders Map
+---
+1567: A map of the area.
+---
+1568: Ruins Map
+---
+1569: A map of the area.
+---
+1570: Undersea Kingdom Map
+---
+1571: A map of the area.
+---
+1572: Starry Hill
+---
+1573: A map of the area.
+---
+1574: 100 Acre Wood Map
+---
+1575: A map of the area.
+---
+1576: Rabbit´s Howse Map
+---
+1577: A map of the area.
+---
+1578: Piglet´s Howse Map
+---
+1579: A map of the area.
+---
+1580: Kanga´s Howse Map
+---
+1581: A map of the area.
+---
+1582: Spooky Cave Map
+---
+1583: A map of the area.
+---
+1588: Fire Element
+---
+1589: Flames appear and revolve around you.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
+---
+1590: Blizzard Element
+---
+1591: Unleashes ice crystals at the target.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
+---
+1592: Thunder Element
+---
+1593: Drops lightning bolts on the target.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
+---
+1594: Cure Element
+---
+1595: Restores HP.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
+---
+1596: Magnet Element
+---
+1597: Emits a power that draws in the enemy.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
+---
+1598: Reflect Element
+---
+1599: Fends and shoots back enemy attacks.
+{:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
+---
+1600: Ukulele Charm
+---
+1601: With the help of two friends, use
+the Summon Command to call forth
+Stitch for a helping hand.
+---
+1602: Valor Form
+---
+1603: With Goofy´s help, use the Drive
+Command to change into Valor Form.
+---
+1604: Wisdom Form
+---
+1605: With Donald´s help, use
+the Drive Command to change
+into Wisdom Form.
+---
+1606: Master Form
+---
+1607: With the help of two friends, use
+the Drive Command to change
+into Master Form.
+---
+1608: Final Form
+---
+1609: Dummy
+---
+1610: Antiform
+---
+1611: Dummy
+---
+1612: High Jump LV1
+---
+1613: Jump a little higher than usual.
+The longer {:icon dynamic-circle} is pressed down,
+the higher the jump.
+---
+1614: High Jump LV2
+---
+1615: Jump even higher than before!
+The longer {:icon dynamic-circle} is pressed down,
+the higher the jump.
+---
+1616: High Jump LV3
+---
+1617: Now you can jump really high!
+The longer {:icon dynamic-circle} is pressed down,
+the higher the jump.
+---
+1618: High Jump MAX
+---
+1619: An extreme jump! Jump even higher
+than you thought possible! The longer
+{:icon dynamic-circle} is pressed down, the higher the jump.
+---
+1620: Quick Run LV1
+---
+1621: Use {:icon dynamic-left-analog} and push {:icon dynamic-square} to sprint rapidly.
+Keep it pressed down for distance.
+---
+1622: Quick Run LV2
+---
+1623: Use {:icon dynamic-left-analog} and push {:icon dynamic-square} to sprint rapidly.
+Keep it pressed down for distance.
+---
+1624: Quick Run LV3
+---
+1625: Use {:icon dynamic-left-analog} and push {:icon dynamic-square} to sprint rapidly.
+Keep it pressed down for distance.
+---
+1626: Quick Run MAX
+---
+1627: Use {:icon dynamic-left-analog} and push {:icon dynamic-square} to sprint rapidly.
+Keep it pressed down for distance.
+---
+1628: Aerial Dodge LV1
+---
+1629: Press {:icon dynamic-circle} in midair to jump again.
+It is useful for dodging enemy attacks.
+---
+1630: Aerial Dodge LV2
+---
+1631: Press {:icon dynamic-circle} in midair to jump again.
+It is useful for dodging enemy attacks.
+---
+1632: Aerial Dodge LV3
+---
+1633: Press {:icon dynamic-circle} in midair to jump again.
+It is useful for dodging enemy attacks.
+---
+1634: Aerial Dodge MAX
+---
+1635: Press {:icon dynamic-circle} in midair to jump again.
+It is useful for dodging enemy attacks.
+---
+1636: Glide LV1
+---
+1637: Press {:icon dynamic-square} in midair to ride the wind.
+Keep it pressed down for longer action.
+---
+1638: Glide LV2
+---
+1639: Press {:icon dynamic-square} in midair to ride the wind
+at a moderate speed. Keep it pressed
+down for longer action.
+---
+1640: Glide LV3
+---
+1641: Press {:icon dynamic-square} in midair to ride the wind
+at great speed. Keep it pressed
+down for longer action.
+---
+1642: Glide MAX
+---
+1643: Press {:icon dynamic-square} in midair to ride the wind
+at extreme speed. Keep it pressed
+down for longer action.
+---
+1644: Guard
+---
+1645: Blocks and shoots back enemy attacks
+using a parrying action with {:icon dynamic-square}.
+---
+2551: ₓₓ
+---
+2552: ₓₓ
+---
+2553: ₓₓₓ
+---
+2554: ₓₓₓₓₓₓₓ
+---
+2555: ₓₓₓₓₓₓ
+---
+2556: ₓₓₓₓₓₓₓₓ
+---
+2557: ◯ₓₓₓ
+---
+2558: ₓₓₓₓ
+---
+2559: ₓₓₓₓ
+---
+2560: ₓₓₓₓ
+---
+2561: {:icon dynamic-start}
+---
+2562: {:icon dynamic-select}
+---
+2563: ₓₓₓₓ
+---
+2564: ₓₓₓₓ
+---
+2565: ₓₓₓₓ
+---
+2566: ₓₓₓₓ
+---
+2567: ₓₓₓₓ
+---
+2568: ₓ１ₓₓₓ
+---
+2569: ₓ１ₓₓₓ
+---
+2570: ₓ２ₓₓₓ
+---
+2571: ₓ２ₓₓₓ
+---
+2572: ₓ３ₓₓₓ
+---
+2573: ₓ３ₓₓₓ
+---
+2574: ₓₓ
+---
+2575: ₓₓ
+---
+2576: ₓₓ
+---
+2577: ₓₓₓₓₓ
+---
+2578: ₓₓₓₓₓₓₓ
+---
+2579: ₓₓₓₓₓₓₓ
+---
+2580: ₓₓₓₓ
+---
+2581: ₓₓ
+---
+2582: ₓₓₓₓₓ
+---
+2583: ₓ
+---
+2584: ✕
+---
+2585:  
+---
+2586: ₓ
+---
+2587: 
+---
+2598: Bridge
+---
+2599: Isla de Muerta: Rock Face
+---
+2600: Where Nothing Gathers
+---
+2601: Alley to Between
+---
+2602: Fragment Crossing
+---
+2603: Memory´s Skyscraper
+---
+2604: The Brink of Despair
+---
+2605: The Soundless Prison
+---
+2606: Nothing´s Call
+---
+2607: Crooked Ascension
+---
+2608: Crooked Ascension
+---
+2609: Twilight´s View
+---
+2610: Hall of Empty Melodies
+---
+2611: Hall of Empty Melodies
+---
+2612: Naught´s Skyway
+---
+2613: Proof of Existence
+---
+2614: Havoc´s Divide
+---
+2615: Addled Impasse
+---
+2616: Naught´s Approach
+---
+2617: Ruin and Creation´s Passage
+---
+2618: The Altar of Naught
+---
+2619: Memory´s Contortion
+---
+2620: The World of Nothing
+---
+2621: Station of Awakening
+---
+2622: The World of Nothing
+---
+2623: Marketplace
+---
+2624: Corridors
+---
+2625: Heartless Manufactory
+---
+2626: Merlin´s House
+---
+2627: Castle Oblivion
+---
+2628: Ansem´s Study
+---
+2629: Ravine Trail
+---
+2630: The Great Maw
+---
+2631: Scar´s Darkness
+---
+2632: The Shore
+---
+2633: Wrath of the Sea
+---
+2634: Wedding Ship
+---
+2635: Palace Gate
+---
+2636: Solar Sailer Simulation
+---
+2637: Sandlot
+---
+2638: Market Street: Station Heights
+---
+2639: Market Street: Tram Common
+---
+2640: Station Plaza
+---
+2641: Central Station
+---
+2642: Sunset Terrace
+---
+2643: Sunset Station
+---
+2644: Sunset Hill
+---
+2645: The Woods
+---
+2646: The Old Mansion
+---
+2647: Mansion: Foyer
+---
+2648: Mansion: Dining Room
+---
+2649: Mansion: Library
+---
+2650: Mansion: The White Room
+---
+2651: Mansion: Basement Hall
+---
+2652: Mansion: Basement Hall
+---
+2653: Mansion: Computer Room
+---
+2654: Mansion: Basement Corridor
+---
+2655: Mansion: Pod Room
+---
+2656: On the Train
+---
+2657: The Tower
+---
+2658: Tower: Entryway
+---
+2659: Tower: Sorcerer´s Loft
+---
+2660: Tower: Wardrobe
+---
+2661: Tower: Star Chamber
+---
+2662: Tower: Moon Chamber
+---
+2663: Tower: Wayward Stairs
+---
+2664: Station of Serenity
+---
+2665: Station of Calling
+---
+2666: Station of Awakening
+---
+2667: The Mysterial Train
+---
+2668: Tunnelway
+---
+2669: Underground Concourse
+---
+2670: Tower: Wayward Stairs
+---
+2671: Tower: Wayward Stairs
+---
+2672: Betwixt and Between
+---
+2673: World Map
+---
+2674: ₓₓ３７
+---
+2675: ₓₓ３８
+---
+2676: ₓₓ３９
+---
+2677: ₓₓₓ１ₓ
+---
+2678: ₓₓₓ２ₓ
+---
+2679: ₓₓₓ３ₓ
+---
+2680: ₓₓₓ４ₓ
+---
+2681: ₓₓₓ５ₓ
+---
+2682: ₓₓₓ６ₓ
+---
+2683: OK
+---
+2684: Yes
+---
+2685: No
+---
+2686: Save
+---
+2687: Load
+---
+2688: World Map
+---
+2689: Title Screen
+---
+2690: Jump to World Map?
+---
+2691: New File
+---
+2692: Game File
+---
+2693: Other Game Files
+---
+2694: {:width 81}MEMORY CARD slot 1
+---
+2695: {:width 81}MEMORY CARD slot 2
+---
+2696: Return to the title screen.
+---
+2697: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Checking PC for save data.
+Do not turn off the power.
+---
+2698: {:icon question-mark}{:color #FF000080}QUESTION{:reset}            {:scale 8}
+
+{:scale 16}Game progress that has not been saved
+will be lost. Proceed?
+---
+2699: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to save to system storage.
+---
+2700: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to check system storage.
+---
+2701: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to load save data.
+---
+2702: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Memory card (PS2) in MEMORY CARD slot {:unk0d }
+is not formatted.
+---
+2703: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Deleting previous data
+from PC.
+Do not turn off the power.
+---
+2704: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Saving data to PC.
+Do not turn off the power.
+---
+2705: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Loading PC for save data.
+Do not turn off the power.
+---
+2706: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Overwriting save data on system storage.
+Do not turn off the power.
+---
+2707: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Deleting previous data
+from PC.
+Do not turn off the power.
+---
+2708: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to check system storage.
+---
+2709: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to delete previous data
+from system storage.
+---
+2710: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Failed to delete previous data.
+---
+2711: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Insufficient free space on system storage.
+At least 169 KB is required to save this data.
+---
+2712: Not Used
+---
+2713: Not Used
+---
+2714: Save data is corrupt.
+---
+2715: Not Used
+---
+2716: Cannot save in new file.
+---
+2717: Save new file.
+---
+2718: {:width 90}Insufficient free space on system storage.
+---
+2719: There is no data.
+---
+2721: Select file to save.
+
+{:icon dynamic-triangle} Delete file
+---
+2722: Select file to load.
+
+{:icon dynamic-triangle} Delete file
+---
+2723: Not Used
+---
+2724: {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+
+Overwrite existing file?
+---
+2725: {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+
+Load this file?
+---
+2726: {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+
+Delete selected file?
+---
+2727: ???
+---
+2728: ???
+---
+2731: ???
+---
+2732: ???
+---
+2733: ???
+---
+2734: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+The file system on the system storage
+is corrupted.
+---
+2735: Load Game
+---
+2736: Continue
+---
+2737: Retry
+---
+2738: Quit
+---
+2739: Skip Scene
+---
+2740: Continue
+---
+2741: I won´t give up!
+---
+2742: It´s all over...
+---
+2743: Jiminy´s Journal
+---
+2744: Wallace´s Weapon Shop
+---
+2745: Biggs's Armor Shop
+---
+2746: Jessie´s Accessory Shop
+---
+2747: Wantz´s Item Shop
+---
+2748: Elmina´s Workshop
+---
+2749: Huey, Dewey, and Louie´s Weapon Shop
+---
+2750: Wedge´s Armor Shop
+---
+2751: Huey, Dewey, and Louie´s Accessory Shop
+---
+2752: Huey, Dewey, and Louie´s Item Shop
+---
+2753: Kupo´s Moogle Shop
+---
+2754: Monty´s Moogle Shop
+---
+2755: Mosh´s Moogle Shop
+---
+2756: Mogjiro´s Moogle Shop
+---
+2757: Morlock´s Moogle Shop
+---
+2758: Gumo´s Moogle Shop
+---
+2759: Mojito´s Moogle Shop
+---
+2760: Kumop´s Moogle Shop
+---
+2761: Artemicion´s Moogle Shop
+---
+2762: Mogtaro´s Moogle Shop
+---
+2763: Stiltzkin´s Moogle Shop
+---
+2764: Buy
+---
+2765: Sell
+---
+2766: Quit
+---
+2767: Yes
+---
+2768: No
+---
+2769: Buy Items.
+---
+2770: Sell Items in Stock.
+---
+2771: Close Shop Menu.
+---
+2772: Stock
+---
+2773: 
+---
+2774: {:scale 12}{:color #FAF00080} Munny
+---
+2775: Buy how many?
+
+{:icon dynamic-dpad-up-down}: Select 1
+{:icon dynamic-dpad-left-right}: Select 10.
+---
+2776: Sell how many?
+
+{:icon dynamic-dpad-up-down}: Select 1
+{:icon dynamic-dpad-left-right}: Select 10.
+---
+2777: Purchase?
+---
+2778: There are no items.
+---
+2779: Sell?
+---
+2780: FAKE
+---
+2781: 
+---
+2782: Strength Increased!
+---
+2783: Magic Increased!
+---
+2784: Defense Increased!
+---
+2785: Maximum AP Increased!
+---
+2786: Maximum HP Increased!
+---
+2787: Maximum MP Increased!
+---
+2788: Drive Gauge Powered Up!
+---
+2789: Gained Item Slot!
+---
+2790: Gained Accessory Slot!
+---
+2791: Gained Armor Slot!
+---
+2792: {:unk0d }!
+---
+2793: Radiant Garden
+---
+6430: Beginner Mode
+---
+6431: Proud Mode
+---
+7486: Sora:
+
+---
+7487: 
+---
+7488: Sora:
+
+---
+7489: 
+---
+7490: Sora:
+Authorized personnel only, eh?
+---
+7491: 
+---
+7492: Sora:
+This isn´t the way to
+Merlin´s house.
+---
+7493: 
+---
+7494: Sora:
+
+---
+7495: 
+---
+7496: Sora:
+It doesn´t look like it´ll open.
+---
+7497: 
+---
+7498: Sora:
+
+---
+7499: 
+---
+7500: Sora:
+We can´t give up now!
+---
+7501: 
+---
+7503: {:width 90}Go To The Rescue
+---
+7504: Examine
+---
+7505: Examine
+---
+7506: Translate
+---
+7507: Translate
+---
+7508: {:width 90}Examine The Wall
+---
+7517: {:width 90}Access Computer
+---
+7533: Learn
+---
+7650: Speed Trap
+---
+7658: {:icon dynamic-r1}Episode List
+---
+7659: Summary of Events
+---
+7660: Next Objective
+---
+7661: {:icon dynamic-triangle}Jiminy Memo
+---
+7662: {:icon dynamic-l1}{:width 95}Select landing area
+---
+7663: Press
+---
+7664: Takedown
+---
+7665: {:width 90}Access Computer
+---
+7666: {:width 90}Access Computer
+---
+7667: {:width 90}Access Computer
+---
+7670: Launch
+---
+7671: Remove Shortcut settings.
+---
+7672: {:icon magic}MP Charge
+---
+7673: {:icon magic-nocharge}Don´t MP Charge
+---
+7674: If there is not enough MP to use this
+magic spell, wait a while and MP will
+begin to regenerate until full.
+---
+7675: This magic spell cannot be used when
+there is not enough MP.
+---
+7676: {:icon auto-equip}{:scale 14}{:width 90}Auto-Reload ON
+---
+7677: {:icon item-consumable}{:scale 14}{:width 90}Auto-Reload OFF
+---
+7678: {:width 95}If an item is used in battle, the same item
+will be reloaded after battle, if in stock.{:reset}
+---
+7679: This item will not be set in a slot once
+it´s been used.
+---
+7752: Grab On
+---
+7753: Hang On
+---
+7754: Hit
+---
+7755: Fore!
+---
+7756: Move center
+---
+7758: {:icon ai-mode-frequent}Free
+---
+7759: {:icon ai-mode-moderate}Well-Balanced
+---
+7760: {:icon ai-mode-rare}Rare
+---
+7761: {:icon ai-mode-frequent}{:scale 13}{:width 90}Often
+---
+7762: {:icon ai-mode-rare}{:scale 13}{:width 90}Last hope!
+---
+7763: Comet
+---
+7764: Comet Rain
+---
+7765: Party Members fight with their
+individual techniques.
+---
+7766: Party Members concentrate attacks on
+Sora´s target.
+---
+7767: Party Members fight close to Sora.
+---
+7768: Party Members will fight a target other
+than Sora´s.
+---
+7769: While Sora attacks, Party Members will
+support him.
+---
+7770: Party Members defeat their target
+before attacking another.
+---
+7771: 
+Use this ability freely.
+---
+7772: 
+Use this ability conservatively.
+---
+7773: 
+Use this ability in special situations.
+---
+7774: 
+Use this item often.
+---
+7775: 
+Use this item only in an emergency!
+---
+7776: Upper Slash
+---
+7777: Knocks a target into the air
+during a combo with {:icon dynamic-square}.
+---
+7998: Roxas:
+Not this way!
+---
+7999: Roxas:
+This isn´t the right way.
+---
+8000: Roxas:
+Not over here...
+---
+8001: Roxas:
+Wait, this isn´t right.
+---
+8002: Roxas:
+Looks like it goes through,
+but I can´t use it now.
+---
+8003: Roxas:
+We better not run away!
+---
+8004: Roxas:
+We better stand up for ourselves.
+---
+8005: Roxas:
+No running away, now!
+---
+8006: Roxas:
+Gotta follow him!
+---
+8007: Roxas:
+I don´t think I can go there yet.
+---
+8008: Roxas:
+There aren´t any jobs this way.
+---
+8009: Roxas:
+I´ve got a job to do!
+---
+8010: Roxas:
+I need to make some munny...
+---
+8011: Roxas:
+They sell tickets inside the station.
+---
+8012: Roxas:
+We could get on if we had tickets.
+---
+8013: Sora:
+Doesn´t look like it´s ready yet.
+---
+8014: Sora:
+I can´t just barge in.
+---
+8015: Sora:
+This doesn´t feel right...
+---
+8016: Sora:
+Something´s not letting us leave.
+---
+8017: Roxas:
+ₓₓₓ
+---
+8018: Roxas:
+ₓₓₓ
+---
+8019: Roxas:
+ₓₓₓ
+---
+8020: Roxas:
+ₓₓₓ
+---
+8021: Roxas:
+ₓₓₓ
+---
+8022: Roxas:
+ₓₓₓ
+---
+8023: Roxas:
+ₓₓₓ
+---
+8024: Roxas:
+ₓₓₓ
+---
+8025: Roxas:
+ₓₓₓ
+---
+8026: Roxas:
+ₓₓₓ
+---
+8027: Roxas:
+ₓₓₓ
+---
+8028: Roxas:
+ₓₓₓ
+---
+8029: Roxas:
+ₓₓₓ
+---
+8030: Roxas:
+ₓₓₓ
+---
+8031: Roxas:
+ₓₓₓ
+---
+8032: Sora:
+ₓₓₓ
+---
+8033: Sora:
+ₓₓₓ
+---
+8034: Sora:
+ₓₓₓ
+---
+8035: Sora:
+ₓₓₓ
+---
+8051: Scan
+---
+8052: Inspects the target´s current HP.
+---
+8058: {:width 90}Access Computer
+---
+8143: OK
+---
+8144: Yes
+---
+8145: No
+---
+8301: Aero Blade
+---
+8302: Select Landing Area
+---
+8303: Episode List
+---
+8304: Warp Snipe
+---
+8307: Adamant Shield
+---
+8308: A shield that excels in defense rather
+than strength. Blocks various attacks.
+---
+8309: Chain Gear
+---
+8310: A large shield that blocks various
+attacks. Can also be used for attacking.
+---
+8311: Ogre Shield
+---
+8312: A shield with great strength that also
+blocks various attacks. Increases defense
+by {:color #F0F00080}3{:reset} in critical situations.
+---
+8313: Falling Star
+---
+8314: A small, easy-to-handle shield used
+solely for attacking.
+---
+8315: Dreamcloud
+---
+8316: A shield with great strength used
+solely for attacking.
+---
+8317: Knight Defender
+---
+8318: A shield with great strength used
+solely for attacking.
+---
+8319: Genji Shield
+---
+8320: A shield with great strength and
+defense. Quickly revives wielder when
+fallen, and restores much of their HP.
+---
+8321: Akashic Record
+---
+8322: A shield with great strength.
+Increases MP restoration speed
+by {:color #F0F00080}25%{:reset} when all MP is consumed.
+---
+8323: Nobody Guard
+---
+8324: {:width 95}A shield with great strength. Restores MP
+relative to the amount of damage taken.
+---
+8847: Hammer Staff
+---
+8848: A staff used for its strength.
+---
+8849: Victory Bell
+---
+8850: A staff used to increase strength.
+Also increases magic.
+---
+8851: Meteor Staff
+---
+8852: A staff of great strength that increases
+magic. Increases damage done with
+thunder-based attacks by {:color #F0F00080}20%{:reset}.
+---
+8853: Comet Staff
+---
+8854: A staff used for its strength and
+magic, inspired by the stars.
+---
+8855: Lord´s Broom
+---
+8856: A staff used to increase strength
+and magic.
+---
+8857: Wisdom Wand
+---
+8858: A staff with great magic and strength.
+
+---
+8859: Rising Dragon
+---
+8860: A staff with great strength and magic.
+Increases damage done with fire-based
+attacks by {:color #F0F00080}20%{:reset}.
+---
+8861: Nobody Lance
+---
+8862: A lance with great strength and magic.
+Increases the effect of restoration
+items used on the field by {:color #F0F00080}50%{:reset}.
+---
+8863: Shaman´s Relic
+---
+8864: A staff with great magic and strength.
+Increases damage done with ice-based
+attacks by {:color #F0F00080}20%{:reset}.
+---
+8869: Buy Tickets
+---
+8870: Touch The Light
+---
+8871: Learn The Rules
+---
+8872: Approach
+---
+8873: {:width 90}Examine The Table
+---
+8874: {:width 80}Listen to the story
+---
+8875: Approach
+---
+8876: Touch The Beam
+---
+8877: Isla de Muerta: Treasure Heap
+---
+8993: Enter Password
+---
+8995: Key Counter
+---
+8996: Lunarsault
+---
+8997: Break Raid
+---
+9020: Rising Sun
+---
+9928: Duel Stance
+---
+9929: The End
+---
+9933: Fail-Safe
+---
+9934: Scapegoat
+---
+9945: Jump!
+---
+10328: Aerial Recovery
+---
+10329: Quickly regains balance with {:icon dynamic-circle} when
+knocked down.
+---
+10330: Peter Pan
+---
+10331: Lamp Charm
+---
+10332: With the help of two friends, use
+the Summon Command to call forth
+Genie for a helping hand.
+---
+10333: Feather Charm
+---
+10334: With the help of two friends, use
+the Summon Command to call forth
+Peter Pan for a helping hand.
+---
+10335: Pinball
+---
+10337: The Black Pearl
+---
+10338: The Black Pearl
+---
+10339: The Black Pearl
+---
+10340: The Interceptor
+---
+10341: The Interceptor
+---
+10414: Air Twister
+---
+10415: Tornado Ride
+---
+10416: Quick Blade
+---
+10419: Dodge Roll
+---
+10428: Begin Game
+---
+10429: Stop Dice
+---
+10433: Aura Guard
+---
+10434: Dismiss
+---
+10435: The Black Pearl: Captain´s Stateroom
+---
+10439: Open The Door
+---
+10441: Root Ravager
+---
+10442: Clear Shot
+---
+10443: Big Ben
+---
+10444: Sora:
+Let´s get to Merlin´s house.
+---
+10445: 
+---
+12068: ◯
+---
+12069: ✕
+---
+12070: Sora:
+I hope Pooh´s all right...
+---
+12071: 
+---
+12072: Hop On
+---
+12073: Shift Shot
+---
+12074: Heal Stomp
+---
+12080: Restoration Site
+---
+12081: Bailey
+---
+12082: Get Off
+---
+12083: Staff of Detection
+---
+12084: A powerless staff, its only use is
+to detect movement.
+---
+12086: Wind Dance
+---
+12087: High Climb
+---
+12088: Needle Dive
+---
+12090: Help
+---
+12092: Pegasus Run
+---
+12093: Juggle Parry
+---
+12094: Overhand
+---
+12096: Knocksmash
+---
+12097: Duo Raid
+---
+12098: Cosmo Boost
+---
+12131: Combo Plus
+---
+12132: Increases maximum combo by 1 when
+on the ground.
+Equip more to enable more combos.
+---
+12133: Air Combo Plus
+---
+12134: Increases maximum combo by 1 when
+in midair.
+Equip more to enable more combos.
+---
+12135: Sora:
+Our assignment is over
+the mountain trail!
+---
+12136: ₓₓₓ
+---
+12885: Rocket Flare
+---
+12932: Phil One-Two
+---
+12998: Coliseum Gates
+---
+13026: Speedster
+---
+13027: Quickplay
+---
+13028: Trickster
+---
+13030: Return Fire
+---
+13031: Bluff
+---
+13032: Slasher
+---
+13033: Jackknife
+---
+13034: Final Trap
+---
+13036: Lion
+---
+13037: Weapons
+---
+13038: Action
+---
+13039: Growth
+---
+13040: Support
+---
+13043: Donald Fire
+---
+13044: Unleashes a firestorm that attacks
+nearby enemies. {:color #F0F00080}MP Cost: 10{:reset}
+---
+13045: Donald Blizzard
+---
+13046: Unleashes a barrage of ice at
+the enemy. {:color #F0F00080}MP Cost: 10{:reset}
+---
+13047: Donald Thunder
+---
+13048: Call down a bombardment of lightning
+bolts on your target! {:color #F0F00080}MP Cost: 10{:reset}
+---
+13049: Donald Cure
+---
+13050: Cures Party Member´s HP.
+{:color #F0F00080}MP Cost: All{:reset}
+---
+13065: Healing Water
+---
+13066: Restores the Party´s HP.
+ {:color #F0F00080}MP Cost: 99{:reset}
+---
+13067: Furious Shout
+---
+13068: Knocks down nearby enemies with
+enraged shouts. {:color #F0F00080}MP Cost: 10{:reset}
+---
+13086: Cure Potion
+---
+13087: Restores the Party´s HP.
+ {:color #F0F00080}MP Cost: 99{:reset}
+---
+13092: Healing Herb
+---
+13093: Restores the Party´s HP using
+the powers of nature. {:color #F0F00080}MP Cost: 99{:reset}
+---
+13102: Slow 3
+---
+13103: (Delete)
+---
+13109: Trinity Limit
+---
+13110: A Limit Command that uses teamwork
+to unleash the powerful Trinity attack.
+Consumes all of Sora´s MP.
+---
+13111: Fantasia
+---
+13112: A Limit Command that unleashes
+Donald´s powerful Comet spell.
+Consumes all of Sora´s MP.
+---
+13113: Flare Force
+---
+13114: A Limit Command that unleashes
+Donald´s powerful Duck Flare spell.
+Consumes all of Sora´s MP.
+---
+13115: Tornado Fusion
+---
+13116: A Limit Command that unleashes Goofy´s
+spinning attack, Whirli-Goof.
+Consumes all of Sora´s MP.
+---
+13117: Teamwork
+---
+13118: A Limit Command that unleashes Goofy
+and Sora´s joint attack, Knocksmash.
+Consumes all of Sora´s MP.
+---
+13119: Trick Fantasy
+---
+13120: A Limit Command that unleashes Aladdin
+and Sora´s joint attack, Speedster.
+Consumes all of Sora´s MP.
+---
+13121: Overdrive
+---
+13122: A Limit Command that unleashes Auron
+and Sora´s joint attack, Bushido.
+Consumes all of Sora´s MP.
+---
+13123: Howling Moon
+---
+13124: A Limit Command that unleashes Beast
+and Sora´s joint attack, Twin Howl.
+Consumes all of Sora´s MP.
+---
+13125: Applause, Applause
+---
+13126: A Limit Command that unleashes Jack
+and Sora´s joint attack, Dance Call.
+Consumes all of Sora´s MP.
+---
+13127: Dragonblaze
+---
+13128: A Limit Command that unleashes Mulan
+and Sora´s joint attack, Red Rocket.
+Consumes all of Sora´s MP.
+---
+13129: Eternal Session
+---
+13130: A Limit Command that unleashes Riku
+and Sora´s joint attack, Session.
+Consumes all of Sora´s MP.
+---
+13131: King´s Pride
+---
+13132: A Limit Command that unleashes Simba
+and Sora´s joint attack, Wildcat.
+Consumes all of Sora´s MP.
+---
+13133: Treasure Isle
+---
+13134: A Limit Command that unleashes Jack
+Sparrow and Sora´s joint attack, Bluff.
+Consumes all of Sora´s MP.
+---
+13135: {:width 90}Complete Compilement
+---
+13136: A Limit Command that unleashes Tron
+and Sora´s joint attack, Setup.
+Consumes all of Sora´s MP.
+---
+13139: Wisdom
+---
+13170: There are no Abilities.
+---
+13171: {:icon dynamic-square}Items
+---
+13846: Not Used
+---
+13847: Config
+---
+13848: Log
+---
+13849: {:icon dynamic-square}Abilities
+---
+13850: {:icon dynamic-l2}{:icon dynamic-r2}Switch
+---
+13861: Pulsing Thunder
+---
+13862: Releases electricity to attack
+nearby enemies. {:color #F0F00080}MP Cost: 10{:reset}
+---
+13863: 	Equip
+---
+13864: Equip this ability.
+---
+13865: 	Don´t Equip
+---
+13866: Don´t equip this ability.
+---
+13868: Minnie:
+That´s not the way to
+the audience chamber.
+---
+13869: 
+---
+13870: Minnie:
+We´ve got to hurry to
+the audience chamber.
+---
+13871: ₓₓₓ
+---
+13875: Brave Shot
+---
+13876: Unleashes a powerful finishing combo
+move and knocks a single target off
+its feet.
+---
+13877: Brave Beat
+---
+13878: Unleashes a powerful finishing combo
+move that successively attacks several
+targets at once.
+---
+13879: Sonic Strike
+---
+13880: Unleashes a powerful finishing combo
+move that pierces through a single
+target.
+---
+13881: Sonic End
+---
+13882: Unleashes a powerful finishing combo
+move in a rapid midair attack to
+several targets at once.
+---
+13883: Wisdom Shot
+---
+13884: Changes the command Attack to Shoot.
+---
+13885: Mobile Action
+---
+13886: Actions will be enabled while moving.
+---
+13889: Synch Blade
+---
+13890: Equips a Keyblade in each hand.
+The ability of the left hand weapon
+becomes available as well.
+---
+13891: Magic Haste
+---
+13892: Shortens magic casting time and
+enables rapid magic combos.
+---
+13893: Magic Spice
+---
+13894: Powers up the finishing move of
+magic combos.
+---
+13895: ₓₓ４６
+---
+13896: Backshuffle
+---
+13951: Rockshatter
+---
+13952: Stomp Bomb
+---
+13953: Air Slash
+---
+13965: Shoot
+---
+13966: Leap
+---
+13967: Sora:
+C´mon, into the cave!
+---
+13968: 
+---
+13969: Dispel
+---
+13970: Rodeo
+---
+13971: Grand Cross
+---
+14002: Rapid Blow
+---
+14004: Sora:
+Let´s return to Hollow Bastion.
+---
+14005: 
+---
+14006: Sora:
+We have to keep going!
+---
+14007: The World of Nothing
+---
+14008: The World of Nothing
+---
+14009: Capture
+---
+14010: Secret Ansem Report 1
+---
+14011: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14012: Secret Ansem Report 2
+---
+14013: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14014: Secret Ansem Report 3
+---
+14015: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14016: Secret Ansem Report 4
+---
+14017: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14018: Secret Ansem Report 5
+---
+14019: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14020: Secret Ansem Report 6
+---
+14021: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14022: Secret Ansem Report 7
+---
+14023: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14024: Secret Ansem Report 8
+---
+14025: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14026: Secret Ansem Report 9
+---
+14027: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14028: Secret Ansem Report 10
+---
+14029: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14030: Secret Ansem Report 11
+---
+14031: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14032: Secret Ansem Report 12
+---
+14033: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14034: Secret Ansem Report 13
+---
+14035: A secret report written by Ansem.
+It can be viewed in Jiminy´s Journal.
+---
+14088: Musical
+---
+14089: Wildcat
+---
+14090: High Fang
+---
+14091: X-Claw
+---
+14092: Proud Roar
+---
+14093: Equip weapons and armor,
+or use items in stock.
+---
+14094: Equip Guide
+---
+14095: Equip Abilities.
+---
+14096: Switch Party Members.
+---
+14097: Show Status.
+---
+14098: Read Jiminy´s Journal.
+---
+14099: Change Character settings.
+---
+14100: Option Guide
+---
+14101: Change Game settings.
+---
+14102: See Obtained Items and Abilities.
+---
+14103: Field Camera
+---
+14104: Right Stick
+---
+14105: Navigational Map
+---
+14106: Vibration
+---
+14107: Sound
+---
+14108: Command Menu
+---
+14109: Game Mode
+---
+14110: Auto
+---
+14111: Manual
+---
+14112: The field camera will move
+automatically. The camera will remain
+fixed when {:icon dynamic-r2} is held down.
+---
+14113: The field camera will remain fixed.
+The camera will move automatically
+when {:icon dynamic-r2} is held down.
+---
+14114: Camera
+---
+14115: Command Menu
+---
+14116: {:width 87}Set the right stick to control the camera.
+The right stick can be used for commands
+while pressing LT.
+---
+14117: {:width 87}Set the right stick for commands.
+The right stick can be used to control
+the camera while pressing LT.
+---
+14118: ON
+---
+14119: OFF
+---
+14120: Display navigational map in the top
+right corner.
+---
+14121: The navigational map will not be
+displayed.
+---
+14122: ON
+---
+14124: Enable vibration function of gamepad.
+---
+14125: Disable vibration function of gamepad.
+---
+14126: Stereo
+---
+14127: Pro Logic II
+---
+14128: Mono
+---
+14129: Play with Stereo sound.
+---
+14130: Play with Dolby Pro Logic II.
+Enjoy surround sound with a system
+that supports Dolby Pro Logic II.
+---
+14131: Play with Mono sound.
+---
+14132: Kingdom Hearts {II}
+---
+14133: Kingdom Hearts
+---
+14134: Have the look of the command menu
+change with each world visited.
+---
+14135: Keep the look of the original command
+menu.
+---
+14136: Beginner Mode
+---
+14137: Standard Mode
+---
+14138: Proud Mode
+---
+14139: {:width 95}Easier gameplay for beginners.
+The Game Mode cannot be changed once
+the game has started.
+---
+14140: {:width 95}Balanced gameplay. Not too hard, not too
+easy. The Game Mode cannot be changed
+once the game has started.
+---
+14141: {:width 95}Difficult gameplay with stronger enemies.
+The Game Mode cannot be changed once
+the game has started.
+---
+14158: Bolt Reversal
+---
+14162: OFF
+---
+14205: Faith
+---
+14206: Report
+---
+14207: Apply For Work
+---
+14208: {:width 80}Listen To The Story
+---
+14211: Over the Horizon
+---
+14212: Leaps towards a target in
+a rapid attack with {:icon dynamic-square}.
+---
+14213: Omega Finale
+---
+14214: Deals finishing combo moves in
+the middle of a combo with {:icon dynamic-square}.
+---
+14215: Reflect Dummy
+---
+14216: Dummy
+---
+14217: Upper Dummy
+---
+14218: Dummy
+---
+14221: Investigate
+---
+14225: Roxas:
+Looks iffy in there...
+---
+14226: 
+---
+14279: Set the jewel!
+---
+14284: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Checking system storage.
+Do not turn off the power.
+---
+14285: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Insufficient free space on system storage.
+At least 69 KB of free space is required
+to save your game. Start game anyway?
+---
+14286: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+No system storage found.
+Game progress cannot be saved.
+Start game anyway?
+---
+14287: Go, Abu!
+---
+14288: Call Over
+---
+14292: 1
+---
+14293: 2
+---
+14298: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Insufficient free space on system storage.
+At least 169 KB of free space is required
+to save your game. Start game anyway?
+---
+14299: Munny
+---
+14424: Save data to storage device.
+---
+14425: Jump to World Map?
+---
+14426: Save data to system storage.
+---
+14427: Load data from storage device.
+---
+14429: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+No system storage found.
+---
+14431: Land
+---
+14432: Reverse Blade
+---
+14439: Stop
+---
+14440: Wild Dance
+---
+14442: Standard Mode
+---
+14603: Spin
+---
+14604: ALL
+---
+14605: {:icon weapon-keyblade}
+---
+14606: {:icon armor}
+---
+14607: {:icon item-consumable}
+---
+14608: {:icon item-key}
+---
+14612: Dance Call
+---
+14613: {:width 90}Synchronization
+---
+14614: Downbeat
+---
+14615: Finale
+---
+14619: Examine
+---
+14622: Setup
+---
+14623: Cluster Code
+---
+14624: Burst Pulse
+---
+14625: Reprogram
+---
+14626: Urninator
+---
+14629: Duck Flare
+---
+14630: Megaduck Flare
+---
+14631: Halloween Town Map
+---
+14632: A map of the area.
+---
+14633: Naval Map
+---
+14634: A map of the area.
+---
+14635: Pride Rock Map
+---
+14636: A map of the area.
+---
+14637: Marketplace Map
+---
+14638: A map of the area.
+---
+14639: Pit Cell Area Map
+---
+14640: A map of the area.
+---
+14641: Twilight Town Map
+---
+14642: A map of the area.
+---
+14643: Dark City Map
+---
+14644: A map of the area.
+---
+14652: The Savannah
+---
+14657: Use an item.
+---
+14658: Throw away one item.
+---
+14659: Use on who?
+---
+14660: All
+---
+14661: Use item on everyone.
+---
+14662: ₓₓₓ７ₓ
+---
+14663: ₓₓₓ８ₓ
+---
+14664: ₓₓₓ９ₓ
+---
+14670: The item will be used on {:unk0d }.
+---
+14671: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Throw {:unk0d }{:unk0d } away?
+---
+14721: Master Strike
+---
+14722: Unleashes a powerful finishing combo
+move that successively attacks
+a single target.
+---
+14723: Disaster
+---
+14724: Unleashes a powerful finishing combo
+move that draws in several enemies
+and successively deals damage.
+---
+14725: Endless Magic
+---
+14726: Unleashes magic combos endlessly.
+---
+14729: Master Magic
+---
+14730: Powers up magic.
+---
+14731: Slapshot
+---
+14732: Rapidly attacks a nearby target
+without getting flung back.
+---
+14733: Dodge Slash
+---
+14734: Unleashes an attack that deals damage
+to nearby enemies.
+---
+14735: Slide Dash
+---
+14736: Instantly closes in on and attacks
+a far target.
+---
+14737: Guard Break
+---
+14738: Unleashes a powerful finishing combo
+move that pierces through a target´s
+guard.
+---
+14739: Explosion
+---
+14740: Unleashes a finishing combo move
+that knocks down several enemies.
+Damage dealt is relative to magic skill.
+---
+14741: Finishing Leap
+---
+14742: Unleashes a powerful guard-piercing
+attack at the end of a combo with {:icon dynamic-square}.
+---
+14743: Counterguard
+---
+14744: Counterattacks nearby enemies with
+Attack while performing Guard.
+---
+14745: Aerial Sweep
+---
+14746: Unleashes a powerful leaping attack
+on targets in midair.
+---
+14747: Aerial Spiral
+---
+14748: Closes in on far targets in midair and
+unleashes spinning attacks.
+---
+14749: Horizontal Slash
+---
+14750: Unleashes a powerful attack that hits
+a target from left to right
+during a midair combo with {:icon dynamic-square}.
+---
+14751: Aerial Finish
+---
+14752: Unleashes a powerful finishing combo
+move to a single target in midair.
+---
+14753: Retaliating Slash
+---
+14754: When knocked down, quickly regains
+balance and counterattacks with {:icon dynamic-square}.
+---
+14770: Forward March!
+---
+14771: Company Halt!
+---
+14772: Settle Down!
+---
+14791: {:icon item-consumable}
+---
+14792: {:icon item-tent}
+---
+14793: {:icon weapon-keyblade}
+---
+14794: {:icon weapon-staff}
+---
+14795: {:icon weapon-shield}
+---
+14796: {:icon question-mark}
+---
+14797: {:icon question-mark}
+---
+14798: {:icon question-mark}
+---
+14799: {:icon question-mark}
+---
+14800: {:icon question-mark}
+---
+14801: {:icon question-mark}
+---
+14802: {:icon question-mark}
+---
+14803: {:icon question-mark}
+---
+14804: {:icon question-mark}
+---
+14805: {:icon armor}
+---
+14806: {:icon accessory}
+---
+14807: {:icon material}
+---
+14808: {:icon item-key}
+---
+14809: Drive Recovery
+---
+14810: Restores up to three full Drive Gauges.
+Usable only from the Main Menu.
+---
+14811: High Drive Recovery
+---
+14812: Restores all Drive Gauges.
+Usable only from the Main Menu.
+---
+14813: Power Boost
+---
+14814: Increases Strength by 1.
+Usable only from the Main Menu.
+---
+14815: Magic Boost
+---
+14816: Increases Magic by 1.
+Usable only from the Main Menu.
+---
+14817: Defense Boost
+---
+14818: Increases Defense by 1.
+Usable only from the Main Menu.
+---
+14819: AP Boost
+---
+14820: Raises maximum AP by 1.
+Usable only from the Main Menu.
+---
+14821: loop demo
+---
+14823: Dark Shard
+---
+14824: A gem fragment filled with darkness.
+A very common ingredient of
+item synthesis.
+---
+14825: Dark Stone
+---
+14826: A stone filled with darkness.
+A common ingredient of item synthesis.
+---
+14827: Dark Gem
+---
+14828: A gem abundant with darkness.
+A rare ingredient of item synthesis.
+---
+14829: Dark Crystal
+---
+14830: A mysterious crystal abundant with
+darkness. A very rare ingredient of
+item synthesis.
+---
+14831: Cannon Bomb
+---
+14841: Defeat 50 forms within 40 seconds!
+---
+14842: Defeat 10 forms within 15 seconds!
+---
+14843: Defeat 100 forms within 80 seconds!
+---
+14844: LV
+---
+14845: HP
+---
+14846: MP
+---
+14847: Strength
+---
+14848: Magic
+---
+14849: Defense
+---
+14850: AP
+---
+14851: Drive
+---
+14853: Wildebeest Valley
+---
+14863: Ability Ring
+---
+14864: Slightly increases maximum AP.
+---
+14865: Engineer´s Ring
+---
+14866: Increases maximum AP.
+---
+14867: Technician´s Ring
+---
+14868: Greatly increases maximum AP.
+---
+14869: Expert´s Ring
+---
+14870: Exceedingly increases maximum AP.
+---
+14871: Sardonyx Ring
+---
+14872: Increases strength and slightly
+increases maximum AP.
+---
+14873: Tourmaline Ring
+---
+14874: Increases strength and increases
+maximum AP.
+---
+14875: Aquamarine Ring
+---
+14876: Increases strength and greatly
+increases maximum AP.
+---
+14877: Garnet Ring
+---
+14878: Increases strength and extremely
+increases maximum AP.
+---
+14879: Diamond Ring
+---
+14880: Increases strength and drastically
+increases maximum AP.
+---
+14881: Silver Ring
+---
+14882: Increases magic and slightly increases
+maximum AP.
+---
+14883: Gold Ring
+---
+14884: Increases magic and increases
+maximum AP.
+---
+14885: Platinum Ring
+---
+14886: Increases magic and greatly increases
+maximum AP.
+---
+14887: Mythril Ring
+---
+14888: Increases magic and {:width 90}extremely{:width 100} increases
+maximum AP.
+---
+14889: Orichalcum Ring
+---
+14890: Increases magic and drastically
+increases maximum AP.
+---
+14891: Master´s Ring
+---
+14892: Extraordinarily increases maximum AP.
+---
+14893: Moon Amulet
+---
+14894: Highly increases strength and magic
+and also greatly increases maximum AP.
+---
+14895: Star Charm
+---
+14896: Highly increases strength and magic
+and drastically increases maximum AP.
+---
+14897: Skill Ring
+---
+14898: Extremely increases maximum AP.
+---
+14899: Skillful Ring
+---
+14900: Drastically increases maximum AP.
+---
+14901: Soldier Earring
+---
+14902: Highly increases maximum AP and
+strength.
+---
+14903: Fencer Earring
+---
+14904: Highly increases maximum AP and
+strength and also increases magic.
+---
+14905: Mage Earring
+---
+14906: Highly increases maximum AP and magic.
+---
+14907: Slayer Earring
+---
+14908: Highly increases maximum AP and magic
+and also increases strength.
+---
+14909: Cosmic Ring
+---
+14910: Tremendously increases maximum AP.
+---
+14911: Medal
+---
+14912: Increases strength.
+---
+14913: Cosmic Arts
+---
+14914: Highly increases strength and magic and
+extraordinarily increases maximum AP.
+---
+14915: Shadow Archive
+---
+14916: Drastically increases magic and maximum
+AP.
+---
+14917: Shadow Archive+
+---
+14918: Drastically increases magic and maximum
+AP, and restores MP when damage is
+taken. Equip more to increase the effect.
+---
+14919: Lucky Ring
+---
+14920: Brings luck to the wearer, increasing
+the drop rate of items.
+---
+14921: Full Bloom
+---
+14922: Drastically increases strength and
+maximum AP.
+---
+14923: Draw Ring
+---
+14924: Draws in nearby orbs.
+---
+14925: Full Bloom+
+---
+14926: {:width 95}Drastically increases strength and
+maximum AP. Increases MP restoration
+speed by {:color #F0F00080}25%{:reset} after MP is fully consumed.
+---
+14927: Elven Bandanna
+---
+14928: Slightly increases defense.
+---
+14929: Divine Bandanna
+---
+14930: Increases defense.
+---
+14931: Power Band
+---
+14932: Extremely increases defense.
+---
+14933: Buster Band
+---
+14934: Has extremely high defense.
+---
+14935: Protect Belt
+---
+14936: Greatly increases defense.
+---
+14937: Gaia Belt
+---
+14938: Greatly increases defense as well as
+thunder and dark resistance.
+---
+14939: Cosmic Belt
+---
+14940: Has the greatest defense.
+---
+14941: Shock Charm
+---
+14942: Extremely increases thunder resistance
+and defense.
+---
+14943: Shock Charm+
+---
+14944: Extremely increases thunder resistance
+and defense, and also increases damage
+done by thunder-based attacks by {:color #F0F00080}20%{:reset}.
+---
+14945: Grand Ribbon
+---
+14946: Highly increases all resistances and
+extremely increases defense.
+---
+14951: Fire Bangle
+---
+14952: Increases fire resistance and
+slightly increases defense.
+---
+14953: Fira Bangle
+---
+14954: Increases fire resistance and
+increases defense.
+---
+14955: Firaga Bangle
+---
+14956: Increases fire resistance and
+greatly increases defense.
+---
+14957: Firagun Bangle
+---
+14958: Highly increases fire resistance and
+greatly increases defense.
+---
+14961: Blizzard Armlet
+---
+14962: Increases blizzard resistance and
+slightly increases defense.
+---
+14963: Blizzara Armlet
+---
+14964: Increases blizzard resistance and
+increases defense.
+---
+14965: Blizzaga Armlet
+---
+14966: Increases blizzard resistance and
+greatly increases defense.
+---
+14967: Blizzagun Armlet
+---
+14968: Highly increases blizzard resistance
+and greatly increases defense.
+---
+14971: Thunder Trinket
+---
+14972: Increases thunder resistance and
+slightly increases defense.
+---
+14973: Thundara Trinket
+---
+14974: Increases thunder resistance and
+increases defense.
+---
+14975: Thundaga Trinket
+---
+14976: Increases thunder resistance and
+greatly increases defense.
+---
+14977: Thundagun Trinket
+---
+14978: Highly increases thunder resistance
+and greatly increases defense.
+---
+14981: Shadow Anklet
+---
+14982: Increases dark resistance and
+slightly increases defense.
+---
+14983: Dark Anklet
+---
+14984: Increases dark resistance and
+increases defense.
+---
+14985: Midnight Anklet
+---
+14986: Increases dark resistance and
+greatly increases defense.
+---
+14987: Chaos Anklet
+---
+14988: Highly increases dark resistance and
+greatly increases defense.
+---
+14991: Abas Chain
+---
+14992: Increases fire, blizzard, and thunder
+resistance and slightly increases
+defense.
+---
+14993: Aegis Chain
+---
+14994: Increases fire, blizzard, and thunder
+resistance and increases defense.
+---
+14995: Acrisius
+---
+14996: Increases fire, blizzard, and thunder
+resistance and greatly increases
+defense.
+---
+14997: Ribbon
+---
+14998: Increases all resistances and extremely
+increases defense.
+---
+14999: Champion Belt
+---
+15000: Increases fire, blizzard, and thunder
+resistance.
+---
+15001: Petite Ribbon
+---
+15002: Slightly increases all resistances and
+extremely increases defense.
+---
+15003: Acrisius+
+---
+15004: Highly increases fire, blizzard, and
+thunder resistance and greatly
+increases defense.
+---
+15005: Cosmic Chain
+---
+15006: Greatly increases fire, blizzard, and
+thunder resistance and greatly
+increases defense.
+---
+15023: Blazing Shard
+---
+15024: A gem fragment filled with fire.
+A very common ingredient of item
+synthesis.
+---
+15025: Blazing Stone
+---
+15026: A stone filled with fire.
+A common ingredient of item synthesis.
+---
+15027: Blazing Gem
+---
+15028: A gem abundant with fire.
+A rare ingredient of item synthesis.
+---
+15029: Blazing Crystal
+---
+15030: A mysterious crystal abundant with
+fire. A very rare ingredient of item
+synthesis.
+---
+15039: Lightning Shard
+---
+15040: A gem fragment filled with lightning.
+A very common ingredient of item
+synthesis.
+---
+15041: Lightning Stone
+---
+15042: A stone filled with lightning.
+A common ingredient of item synthesis.
+---
+15043: Lightning Gem
+---
+15044: A gem abundant with lightning.
+A rare ingredient of item synthesis.
+---
+15045: Lightning Crystal
+---
+15046: A mysterious crystal abundant with
+lightning. A very rare ingredient of
+item synthesis.
+---
+15047: Power Shard
+---
+15048: A gem fragment filled with power.
+A very common ingredient of
+item synthesis.
+---
+15049: Power Stone
+---
+15050: A stone filled with power.
+A common ingredient of item synthesis.
+---
+15051: Power Gem
+---
+15052: A gem abundant with power.
+A rare ingredient of item synthesis.
+---
+15053: Power Crystal
+---
+15054: A mysterious crystal abundant with
+power. A very rare ingredient of item
+synthesis.
+---
+15055: Lucid Shard
+---
+15056: A gem fragment filled with brilliance.
+A very common ingredient of
+item synthesis.
+---
+15057: Lucid Stone
+---
+15058: A stone filled with brilliance.
+A common ingredient of item synthesis.
+---
+15059: Lucid Gem
+---
+15060: A gem abundant with brilliance.
+A rare ingredient of item synthesis.
+---
+15061: Lucid Crystal
+---
+15062: A mysterious crystal abundant with
+brilliance. A very rare ingredient of
+item synthesis.
+---
+15063: Dense Shard
+---
+15064: A gem fragment filled with constriction.
+A very common ingredient of
+item synthesis.
+---
+15065: Dense Stone
+---
+15066: A stone filled with constriction.
+A common ingredient of item synthesis.
+---
+15067: Dense Gem
+---
+15068: A gem filled with constriction.
+A rare ingredient of item synthesis.
+---
+15069: Dense Crystal
+---
+15070: A mysterious crystal filled with
+constriction. A very rare ingredient of
+item synthesis.
+---
+15071: Twilight Shard
+---
+15072: A gem fragment filled with twilight.
+A very common ingredient of
+item synthesis.
+---
+15073: Twilight Stone
+---
+15074: A stone filled with twilight.
+A common ingredient of item synthesis.
+---
+15075: Twilight Gem
+---
+15076: A gem filled with twilight.
+A rare ingredient of item synthesis.
+---
+15077: Twilight Crystal
+---
+15078: A mysterious crystal filled with
+twilight. A very rare ingredient of
+item synthesis.
+---
+15079: Mythril Shard
+---
+15080: A fragment of mythril ore.
+A very common ingredient of
+item synthesis.
+---
+15081: Mythril Stone
+---
+15082: A stone made from mythril ore.
+A common ingredient of item synthesis.
+---
+15083: Mythril Gem
+---
+15084: A gem cut from mythril ore.
+A rare ingredient of item synthesis.
+---
+15085: Mythril Crystal
+---
+15086: A mysterious crystal made from
+mythril ore. A very rare ingredient
+of item synthesis.
+---
+15087: Bright Shard
+---
+15088: A gem fragment filled with brightness.
+A very common ingredient of
+item synthesis.
+---
+15089: Bright Stone
+---
+15090: A stone filled with brightness.
+A common ingredient of item synthesis.
+---
+15091: Bright Gem
+---
+15092: A gem abundant with brightness.
+A rare ingredient of item synthesis.
+---
+15093: Bright Crystal
+---
+15094: A mysterious crystal abundant with
+brightness. A very rare ingredient of
+item synthesis.
+---
+15095: Energy Shard
+---
+15096: A gem fragment filled with energy.
+A very common ingredient of
+item synthesis.
+---
+15097: Energy Stone
+---
+15098: A stone filled with energy.
+A common ingredient of item synthesis.
+---
+15099: Energy Gem
+---
+15100: A gem abundant with energy.
+A rare ingredient of item synthesis.
+---
+15101: Energy Crystal
+---
+15102: A mysterious crystal abundant with
+energy. A very rare ingredient of item
+synthesis.
+---
+15103: Serenity Shard
+---
+15104: A gem fragment filled with contentment.
+A very common ingredient of
+item synthesis.
+---
+15105: Serenity Stone
+---
+15106: A stone filled with contentment.
+A common ingredient of item synthesis.
+---
+15107: Serenity Gem
+---
+15108: A gem filled with contentment.
+A rare ingredient of item synthesis.
+---
+15109: Serenity Crystal
+---
+15110: A mysterious crystal filled with
+contentment. A very rare ingredient
+of item synthesis.
+---
+15111: Orichalcum+
+---
+15112: An extremely rare ore.
+An ingredient of item synthesis.
+---
+15113: Munny Pouch
+---
+15114: A handmade pouch.
+It contains 5,000 hard-earned
+munny.
+---
+15115: Crystal Orb
+---
+15116: A pretty crystal.
+It sparkles brightly when held up
+to the sun.
+---
+15117: Seifer´s Trophy
+---
+15118: Trophy obtained from Seifer.
+It is decorated with four
+crystal orbs.
+---
+15119: Tournament Poster
+---
+15120: Poster for the Struggle Tournament.
+It reads, "Get ready for rip-roaring
+excitement!"
+---
+15121: Poster
+---
+15122: An everyday poster.
+It is used for advertisement by
+the folk of Twilight Town.
+---
+15123: Letter
+---
+15124: A letter from one of the part-time jobs.
+Make sure it gets delivered!
+---
+15125: Naminé´s Sketches
+---
+15126: Sketches left by Naminé.
+The drawings appear to have deep
+meaning.
+---
+15127: Membership Card
+---
+15128: A membership card of the {:width 90}Hollow Bastion{:width 100}
+Restoration Committee.
+A rare, honorary membership card.
+---
+15129: Olympus Stone
+---
+15130: A stone held by the gods of Olympus.
+It serves as protection from
+the Underworld´s curse.
+---
+15131: Auron´s Statue
+---
+15132: {:width 95}A statue that looks exactly like Auron.
+It is said to hold his free will. It should
+be returned to Auron immediately.
+---
+15133: Cursed Medallion
+---
+15134: A gold medallion that is cursed.
+It is engraved with a picture of a skull.
+---
+15135: Present
+---
+15136: The present that was stolen.
+It is beautifully wrapped.
+---
+15137: Decoy Presents
+---
+15138: These presents were made as a decoy.
+They´re almost perfect replicas.
+---
+15139: Ice Cream
+---
+15140: Ice cream found inside the box.
+Mmmmmm. It´s refreshing and tastes
+really good.
+---
+15141: Picture
+---
+15142: A picture found inside the box.
+It shows Hayner and the gang in front
+of the old mansion in Twilight Town.
+---
+15143: Orichalcum
+---
+15144: A very rare ore.
+An ingredient of item synthesis.
+---
+15146: The World of Nothing
+---
+15147: The World of Nothing
+---
+15171: Swing
+---
+15172: Release
+---
+15176: Jump
+---
+15177: Jump on
+---
+15178: Everyone
+---
+15179: Zone Guard
+---
+15180: Disc Strike
+---
+15194: Sora:
+But what about the Heartless?
+---
+15195: 
+---
+15199: The World of Nothing
+---
+15204: Delete
+---
+15205: Cancel
+---
+15206: Replace
+---
+15207: Clear Light
+---
+15208: Burst Frontier
+---
+15209: Frost Shard
+---
+15210: A gem fragment filled with ice.
+A very common ingredient of
+item synthesis.
+---
+15211: Frost Stone
+---
+15212: A stone filled with ice.
+A common ingredient of item synthesis.
+---
+15213: Frost Gem
+---
+15214: A gem abundant with ice.
+A rare ingredient of item synthesis.
+---
+15215: Frost Crystal
+---
+15216: A mysterious crystal abundant with
+ice. A very rare ingredient of item
+synthesis.
+---
+15217: Mega-Recipe
+---
+15218: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15219: Ghost Ride
+---
+15220: Hinder
+---
+15225: Chicken Little
+---
+15226: Baseball Charm
+---
+15227: With the help of two friends, use
+the Summon Command to call forth
+Chicken Little for a helping hand.
+---
+15228: The World of Nothing
+---
+15235: Defeat all of the Heartless!
+---
+15236: Defeat all of the Nobodies!
+---
+15237: Defeat all of the enemies!
+---
+15238: Change a character´s equipment.
+To use an item on the field,
+it must be equipped.
+---
+15239: These are items in stock.
+Items can be used or thrown away.
+
+---
+15240: There are no Party Members to switch.
+---
+15241: Select settings for shortcut commands
+and other various functions.
+---
+15242: Change Party Member settings.
+---
+15243: Equip each Party Member with Abilities.
+---
+15244: Confirm Form Ability.
+Form Abilities cannot be changed.
+---
+15247: Post
+---
+15248: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+{:unk0d }{:unk0d } will have no effect
+if used.
+---
+15249: Deliver
+---
+15250: Jump
+---
+15252: Pearl
+---
+15253: Mog´s Workshop
+---
+15254: Synthesize
+---
+15279: D-Charge
+---
+15280: Healing Light
+---
+15281: Struggle Sword
+---
+15282: A toy weapon used in Struggle battles.
+---
+15283: Quit
+---
+15284: Quit Guide
+---
+15285: Synthesize
+---
+15286: Synthesize Items.
+---
+15292: List of materials handed to Moogle in the past.
+---
+15295: Select item to synthesize.
+---
+15297: Save
+---
+15298: Fill the Drive gauge to use Healing Light!
+---
+15299: Use Healing Light to save Sora!
+---
+15300: Use Healing Light to trade places with Sora!
+---
+15302: Types
+---
+15303: 	Total
+---
+15304: 
+---
+15305: High Counter
+---
+15306: Auto Valor
+---
+15307: Automatically sets the Reaction
+Command to Valor in a pinch, if
+Valor Form is usable.
+---
+15308: Auto Wisdom
+---
+15309: Automatically sets the Reaction
+Command to Wisdom in a pinch, if
+Wisdom Form is usable.
+---
+15310: Auto Master
+---
+15311: Automatically sets the Reaction
+Command to Master in a pinch, if
+Master Form is usable.
+---
+15312: Auto Final
+---
+15313: Automatically sets the Reaction
+Command to Final in a pinch, if
+Final Form is usable.
+---
+15314: Auto Summon
+---
+15315: {:width 75}When a friend is down, automatically sets
+the Reaction Command to Summon in the Command
+Menu containing Summon, if Summon is usable.
+---
+15316: Combo Boost
+---
+15317: Increases the damage of the finishing
+move on the ground relative to the
+number of hits in the combo.
+---
+15318: Air Combo Boost
+---
+15319: Increases the damage of the finishing
+move in the air relative to the number
+of hits in the combo.
+---
+15320: Reaction Boost
+---
+15321: Increases damage dealt using
+Reaction Commands by {:color #F0F00080}50%{:reset}.
+Equip more to increase the effect.
+---
+15322: Finishing Plus
+---
+15323: Unleash successive finishing moves
+after combos.
+---
+15324: Negative Combo
+---
+15325: Decreases maximum combo on
+the ground and in midair by 1.
+Equip more to increase the effect.
+---
+15326: Berserk Charge
+---
+15327: {:width 90}Increases strength by {:color #F0F00080}2{:reset}{:width 90} during MP Charge
+and enables combos to continue endlessly.
+The combo finishing move becomes unavailable.
+---
+15328: Damage Drive
+---
+15329: {:width 90}Restores the Drive Gauge every time damage
+is taken. The amount restored to the Drive
+Gauge is relative to the damage received.
+---
+15330: Drive Boost
+---
+15331: Allows greater restoration of
+the Drive Gauge during MP Charge.
+Equip more to increase the effect.
+---
+15332: Form Boost
+---
+15333: Increases the duration of each
+Drive Form.
+Equip more to increase the effect.
+---
+15334: Summon Boost
+---
+15335: Increases the amount of time
+the Summon will stay.
+---
+15336: Combination Boost
+---
+15337: Increases the amount of time
+spent for Limits.
+---
+15338: Experience Boost
+---
+15339: Increases experience gained by {:color #F0F00080}100%{:reset}
+when you are at half health or less.
+Equip more to increase the effect.
+---
+15340: Leaf Bracer
+---
+15341: Casting Cure on yourself will continue
+even when attacked.
+---
+15342: Magic Lock-On
+---
+15343: Automatically locks on to a target when
+casting Fire, Blizzard, Thunder, or
+Magnet.
+---
+15344: No Experience
+---
+15345: Disables the gaining of experience.
+---
+15346: Draw
+---
+15347: Draws in and obtains nearby orbs.
+Equip more to increase the effect.
+---
+15348: Jackpot
+---
+15349: Increases drop rate of munny, and HP
+and MP orbs. Equip the whole Party to
+further increase the drop rate.
+---
+15350: Lucky Lucky
+---
+15351: Will bring luck by increasing the drop
+rate of items. Equip the whole Party
+to further increase the drop rate.
+---
+15352: Fire Boost
+---
+15353: Increases damage done with fire-based
+attacks by {:color #F0F00080}20%{:reset}.
+Equip more to increase the effect.
+---
+15354: Blizzard Boost
+---
+15355: Increases damage done with blizzard-
+based attacks by {:color #F0F00080}20%{:reset}.
+Equip more to increase the effect.
+---
+15356: Thunder Boost
+---
+15357: Increases damage done with thunder-
+based attacks by {:color #F0F00080}20%{:reset}.
+Equip more to increase the effect.
+---
+15358: Item Boost
+---
+15359: Increases effect done with healing items
+on the field by {:color #F0F00080}50%{:reset}.
+Equip more to increase the effect.
+---
+15360: MP Rage
+---
+15361: Restores MP relative to the amount
+of damage taken.
+Equip more to increase the effect.
+---
+15362: MP Haste
+---
+15363: Increases MP restoration speed by 
+{:color #F0F00080}25%{:reset} after MP is fully consumed.
+Equip more to increase the effect.
+---
+15364: Defender
+---
+15365: Increases defense by {:color #F0F00080}3{:reset} in a pinch.
+Equip more to increase the effect.
+---
+15366: Second Chance
+---
+15367: Ensures 1 HP remains after taking
+massive damage.
+---
+15368: Once More
+---
+15369: Ensures 1 HP remains after taking
+damage from a combo.
+---
+15370: Auto Limit
+---
+15371: Automatically sets the Reaction
+Command to Limit, if Limit is usable.
+---
+15372: Auto Change
+---
+15373: Automatically replaces fallen
+Party Members.
+---
+15374: Hyper Healing
+---
+15375: Quickly revives a fallen Party Member
+and greatly restores their HP.
+---
+15376: Auto Healing
+---
+15377: Restores HP while replaced by
+another Party Member with Change.
+---
+15378: MP Hastera
+---
+15379: Increases MP restoration speed by {:color #F0F00080}50%{:reset}
+after MP is fully consumed.
+Equip more to increase the effect.
+---
+15380: MP Hastega
+---
+15381: Increases MP restoration speed by {:color #F0F00080}75%{:reset}
+after MP is fully consumed.
+Equip more to increase the effect.
+---
+15483: Aura Sphere
+---
+15485: Goofy Tornado
+---
+15486: Creates a vortex to draw enemies
+close and attack them!{:color #F0F00080} MP Cost: 10{:reset}
+---
+15489: Goofy Turbo
+---
+15490: Dashes through enemies, bouncing
+them towards Sora. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15491: Slash Frenzy
+---
+15492: Stops enemy movements with a rapid
+swarm of attacks. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15493: Quickplay
+---
+15494: Pounces on the enemy to obtain orbs.
+{:color #F0F00080}MP Cost: 10{:reset}
+---
+15495: Divider
+---
+15496: Attacks nearby enemies while flying
+through the air. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15497: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Handed over all {:color #FFFF0080}synthesis materials{:reset}
+in stock.
+---
+15498: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Handed over all {:color #FFFF0080}recipes{:reset}
+in stock.
+---
+15499: Material Log
+---
+15500: Creations
+---
+15501: {:width 90}F{:width 70}ree {:width 90}D{:width 70}evelopment
+---
+15502: Recipes
+---
+15503: Quit
+---
+15504: Confirm past materials.
+---
+15505: Synthesize old items.
+---
+15506: Have Moogle develop new items.
+---
+15507: Synthesize items using acquired recipes.
+---
+15508: Close menu.
+---
+15509: Item Synthesis
+---
+15510: Goofy Bash
+---
+15511: {:width 90}An effective ranged attack, throwing a
+shield at the enemy from afar. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15512: Ferocious Rush
+---
+15513: Attacks the enemy successively with
+a rush of enraged tackles. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15514: Blazing Fury
+---
+15515: Becomes engulfed in flames and chases
+the enemy. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15516: Icy Terror
+---
+15517: Ice crystals form around and attack
+the target. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15518: Bolts of Sorrow
+---
+15519: Lightning bolts rain down upon
+the target. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15520: Mushu Fire
+---
+15521: Mushu attacks nearby enemies by
+breathing fire. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15522: Flametongue
+---
+15523: Rushes in and attacks enemies in midair
+{:width 95}while engulfed in Mushu´s fire. {:color #F0F00080}MP Cost: 10{:reset}{:width 100}
+---
+15524: Dark Shield
+---
+15525: Blocks enemy attacks with a shield of
+darkness as commanded. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15528: Dark Aura
+---
+15529: Stops enemy movements with dark magic
+spells as commanded when Sora´s
+combo is about to end. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15530: Fierce Claw
+---
+15531: Attacks the target successively.
+ {:color #F0F00080}MP Cost: 10{:reset}
+---
+15532: Groundshaker
+---
+15533: Attacks surrounding enemies with an
+earth-shaking battle cry. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15540: Scouting Disk
+---
+15541: Releases a disk that automatically
+finds and attacks an enemy. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15542: Slow 2
+---
+15543: (Delete)
+---
+15544: No Mercy
+---
+15545: There is no escaping from this attack!
+ {:color #F0F00080}MP Cost: 10{:reset}
+---
+15546: Rain Storm
+---
+15547: Throws weapons at the enemy
+successively. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15548: Bone Smash
+---
+15549: Throws bombs continuously at
+the target. {:color #F0F00080}MP Cost: 10{:reset}
+---
+15550: {:icon rank-c}
+---
+15551: {:icon rank-b}
+---
+15552: {:icon rank-a}
+---
+15553: {:icon rank-s}
+---
+15554: {:icon gem-dark}
+---
+15555: {:icon gem-blaze}
+---
+15556: {:icon gem-frost}
+---
+15557: {:icon gem-lightning}
+---
+15558: {:icon gem-power}
+---
+15559: {:icon gem-lucid}
+---
+15560: {:icon gem-dense}
+---
+15561: {:icon gem-twilight}
+---
+15562: {:icon gem-mythril}
+---
+15563: {:icon gem-bright}
+---
+15564: {:icon gem-energy}
+---
+15565: {:icon gem-serenity}
+---
+15566: {:icon gem-orichalcum}
+---
+15569: Freeze
+---
+15570: Amateur Moogle
+---
+15571: Novice Moogle
+---
+15572: Junior Moogle
+---
+15573: Skilled Moogle
+---
+15574: Senior Moogle
+---
+15575: Artisan Moogle
+---
+15576: Master Moogle
+---
+15577: Superior Moogle
+---
+15578: Primo Moogle
+---
+15579: ???
+---
+15580: Not Used
+---
+15581: Lists
+---
+15582: Confirm completed collection lists.
+---
+15583: {:icon dynamic-square}Collection List
+---
+15584: List of items obtained from Moogle.
+---
+15585: {:icon dynamic-square}Material Log
+---
+15587: {:width 90}Enter Tournament
+---
+15588: The World of Nothing
+---
+15589: There are no items.
+---
+15590: List of current synthesis materials in stock.
+---
+15591: There are no items.
+---
+15598: Never Land
+---
+15599: My shadow!
+---
+15600: The Flying Boy
+---
+15601: Tiny Fairy
+---
+15602: Wendy
+---
+15603: Anti-Sora
+---
+15604: Believe!
+---
+15605: Old Rival
+---
+15606: Victory
+---
+15607: The Clocktower
+---
+15608: Present
+---
+15609: Journey´s End
+---
+15615: Berserk
+---
+15616: Star Recipe
+---
+15617: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15618: Recovery Recipe
+---
+15619: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15620: Skill Recipe
+---
+15621: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15622: Guard Recipe
+---
+15623: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15624: Dummy 06
+---
+15625: Synthesis Recipe 06
+---
+15626: Dummy 07
+---
+15627: Synthesis Recipe 07
+---
+15628: Dummy 08
+---
+15629: Synthesis Recipe 08
+---
+15630: Dummy 09
+---
+15631: Synthesis Recipe 09
+---
+15632: Dummy 10
+---
+15633: Synthesis Recipe 10
+---
+15634: Dummy 11
+---
+15635: Synthesis Recipe 11
+---
+15636: Dummy 12
+---
+15637: Synthesis Recipe 12
+---
+15638: Dummy 13
+---
+15639: Synthesis Recipe 13
+---
+15640: Dummy 14
+---
+15641: Synthesis Recipe 14
+---
+15642: Dummy 15
+---
+15643: Synthesis Recipe 15
+---
+15644: Dummy 16
+---
+15645: Synthesis Recipe 16
+---
+15646: Road to Discovery
+---
+15647: A synthesis recipe that requires
+special materials.
+---
+15648: {:width 75}Strength Beyond Strength
+---
+15649: A synthesis recipe that requires
+special materials.
+---
+15650: Book of Shadows
+---
+15651: A synthesis recipe that requires
+special materials.
+---
+15652: Cloaked Thunder
+---
+15653: A synthesis recipe that requires
+special materials.
+---
+15654: Eternal Blossom
+---
+15655: A synthesis recipe that requires
+special materials.
+---
+15656: Rare Document
+---
+15657: An ancient synthesis recipe for
+a rare item.
+---
+15658: Dummy 23
+---
+15659: Synthesis Recipe 23
+---
+15660: Dummy 24
+---
+15661: Synthesis Recipe 24
+---
+15662: Dummy 25
+---
+15663: Synthesis Recipe 25
+---
+15664: Dummy 26
+---
+15665: Synthesis Recipe 26
+---
+15666: Dummy 27
+---
+15667: Synthesis Recipe 27
+---
+15668: Style Recipe
+---
+15669: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15670: Moon Recipe
+---
+15671: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15672: Queen Recipe
+---
+15673: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15674: King Recipe
+---
+15675: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15676: Ultimate Recipe
+---
+15677: An ancient synthesis recipe written in
+a language understood only by moogles.
+---
+15711: Run Through
+---
+15713: Trinity
+---
+15714: Break
+---
+15715: Ultima
+---
+15716: Major Drive
+---
+15717: Begin Combo
+---
+15729: Materials
+---
+15730: Overtaker
+---
+15731: Break
+---
+15754: Moogle LV
+---
+15755: Next LV
+---
+15756: Synthesis Recipe
+---
+15757: Item Rank {:unk0d }
+---
+15758: Need/Quantity
+---
+15759: Stock
+---
+15760: {:icon dynamic-square}Materials
+---
+15761: Synthesize item.
+---
+15765: Recovery Run
+---
+15767: Grab
+---
+15768: Rescue
+---
+15769: Grab
+---
+15770: Arm-in-Arm
+---
+15771: Piggyback
+---
+15772: About-Face
+---
+15773: Show Stealer
+---
+15850: Fend
+---
+15866: Star Seeker
+---
+15867: Increases maximum combo by 1
+when in midair.
+---
+15868: Hidden Dragon
+---
+15869: Restores MP relative to the amount of
+damage taken.
+---
+15870: Save the Queen
+---
+15871: A staff with colossal magic and
+strength. Quickly revives wielder when
+fallen, and restores much of their HP.
+---
+15872: Save the King
+---
+15873: {:width 90}A powerful shield with great strength and
+defense. Increases the effect of
+restoration items used on the field by {:color #F0F00080}50%{:reset}.
+---
+15906: {:width 95}There are no creatable items.
+---
+15915: {:icon ai-settings}
+---
+15918: Hero´s Crest
+---
+15919: Increases the damage of the finishing
+move in the air relative to the number
+of hits in the combo.
+---
+15920: Monochrome
+---
+15921: Increases the effect of restoration
+items used on the field by {:color #F0F00080}50%{:reset}.
+---
+15922: Follow the Wind
+---
+15923: Draws in nearby orbs.
+---
+15924: Circle of Life
+---
+15925: Has great strength, increasing
+MP restoration speed by {:color #F0F00080}25%{:reset}
+after MP is consumed.
+---
+15926: Photon Debugger
+---
+15927: Increases damage done with thunder-
+based attacks by {:color #F0F00080}20%{:reset}.
+---
+15928: Gull Wing
+---
+15929: Increases the amount of experience
+gained by {:color #F0F00080}100%{:reset} when defeating
+an enemy at a critical moment.
+---
+15930: Rumbling Rose
+---
+15931: Has great strength, allowing finishing
+combo moves to be unleashed
+successively.
+---
+15932: Guardian Soul
+---
+15933: Has great strength, increasing the amount
+of damage dealt from Reaction Commands
+by {:color #F0F00080}50%{:reset}.
+---
+15934: Wishing Lamp
+---
+15935: Wishes come true by increasing
+the drop rate of munny, and HP
+and MP orbs.
+---
+15936: Decisive Pumpkin
+---
+15937: The greater number of combos landed,
+the more damage is dealt, leading to
+a strong finishing move!
+---
+15938: Sleeping Lion
+---
+15939: Well-balanced with strength and magic,
+increasing maximum ground-based
+combos by 1.
+---
+15940: Sweet Memories
+---
+15941: Although it does not enhance attack
+strength, it increases the drop rate
+of drive orbs in place of munny.
+---
+15942: Mysterious Abyss
+---
+15943: Enhances magic to increase damage
+dealt with blizzard-based attacks by {:color #F0F00080}20%{:reset}.
+---
+15944: Fatal Crest
+---
+15945: {:width 95}Increases strength by {:color #F0F00080}2{:reset} {:width 95}during MP Charge
+and enables combos to continue endlessly.
+{:width 90}The combo finishing move becomes unavailable.
+---
+15946: Bond of Flame
+---
+15947: Enhances magic to increase damage
+dealt with fire-based attacks by {:color #F0F00080}20%{:reset}.
+---
+15948: Fenrir
+---
+15949: Has great range and strength, but
+maximum ground and midair combos are
+decreased by 1.
+---
+15950: Ultima Weapon
+---
+15951: {:width 95}The Keyblade above all others.
+Increases MP restoration rate by {:color #F0F00080}75%{:reset}
+once all MP has been consumed.
+---
+15952: Struggle Wand
+---
+15953: A toy wand used in Struggle battles.
+---
+15954: Struggle Hammer
+---
+15955: A toy club used in Struggle battles.
+---
+15956: Save the Queen+
+---
+15957: A powerful staff with colossal magic
+and strength. Restores MP relative to
+the amount of damage taken.
+---
+15958: Save the King+
+---
+15959: A powerful shield with great strength
+and defense. {:color #F0F00080}Halves{:reset} damage taken
+in critical situations.
+---
+15972: Decipher recipes and synthesize items!
+---
+15973: Use {:icon gem-bright}Brightness & {:icon gem-energy}Energy Materials!
+---
+15974: Use {:icon gem-serenity}Serenity Materials!
+---
+15975: Use up to two extra Materials!
+---
+15976: Rank {:icon rank-c} recipe Materials cut by half!
+---
+15977: Rank {:icon rank-b} recipe Materials cut by half!
+---
+15978: Rank {:icon rank-a} recipe Materials cut by half!
+---
+15979: Make new items in Free Development!
+---
+15980: Rank {:icon rank-s} recipe Materials cut by half!
+---
+15982: Get 1 type of Material.
+---
+15983: Get 5 types of Materials.
+---
+15984: Get 10 types of Materials.
+---
+15985: Get 15 types of Materials.
+---
+15986: Get 20 types of Materials.
+---
+15987: Get 25 types of Materials.
+---
+15988: Get 30 types of Materials.
+---
+15989: Get 35 types of Materials.
+---
+15990: Get 40 types of Materials.
+---
+15991: Get 45 types of Materials.
+---
+15992: Get all Materials.
+---
+15993: Obtain {:width 90}total amount of 50 or more.
+---
+15994: Obtain {:width 90}total amount of 100 or more.
+---
+15995: Obtain {:width 90}total amount of 250 or more.
+---
+15996: Obtain {:width 90}total amount of 500 or more.
+---
+15997: Obtain {:width 90}total amount of 1,000 or more.
+---
+15998: Obtain all {:icon gem-dense}dense Materials.
+---
+15999: Obtain all {:icon gem-twilight}twilight Materials.
+---
+16000: Obtain all {:icon gem-mythril}mythril Materials.
+---
+16001: Obtain all {:icon gem-bright}bright Materials.
+---
+16002: Obtain all {:icon gem-energy}energy Materials.
+---
+16003: Obtain all {:icon gem-serenity}serenity Materials.
+---
+16004: Obtain all rank {:icon rank-c} Materials.
+---
+16005: Obtain all rank {:icon rank-b} Materials.
+---
+16006: Obtain all rank {:icon rank-a} Materials.
+---
+16007: Obtain all rank {:icon rank-s} Materials.
+---
+16008: Obtain 30 or more {:icon gem-dark}Dark Shards.
+---
+16009: Obtain 30 or more {:icon gem-blaze}Blazing Shards.
+---
+16010: Obtain 30 or more {:icon gem-frost}Frost Shards.
+---
+16011: Obtain 30 or more {:icon gem-lightning}Lightning Shards.
+---
+16012: Obtain 30 or more {:icon gem-power}Power Shards.
+---
+16013: Obtain 30 or more {:icon gem-lucid}Lucid Shards.
+---
+16014: Obtain 30 or more {:icon gem-dense}Dense Shards.
+---
+16015: Obtain 30 or more {:icon gem-twilight}Twilight Shards.
+---
+16016: Obtain 25 or more {:icon gem-dark}Dark Stones.
+---
+16017: Obtain 25 or more {:icon gem-blaze}Blazing Stones.
+---
+16018: Obtain 25 or more {:icon gem-frost}Frost Stones.
+---
+16019: Obtain 25 or more {:icon gem-lightning}Lightning Stones.
+---
+16020: Obtain 25 or more {:icon gem-power}Power Stones.
+---
+16021: Obtain 25 or more {:icon gem-lucid}Lucid Stones.
+---
+16022: Obtain 25 or more {:icon gem-dense}Dense Stones.
+---
+16023: Obtain 25 or more {:icon gem-twilight}Twilight Stones.
+---
+16024: Obtain 20 or more {:icon gem-dark}Dark Gems.
+---
+16025: Obtain 20 or more {:icon gem-blaze}Blazing Gems.
+---
+16026: Obtain 20 or more {:icon gem-frost}Frost Gems.
+---
+16027: Obtain 20 or more {:icon gem-lightning}Lightning Gems.
+---
+16028: Obtain 20 or more {:icon gem-power}Power Gems.
+---
+16029: Obtain 20 or more {:icon gem-lucid}Lucid Gems.
+---
+16030: Obtain 20 or more {:icon gem-dense}Dense Gems.
+---
+16031: Obtain 20 or more {:icon gem-twilight}Twilight Gems.
+---
+16034: 
+---
+16035: Corridors
+---
+16036: Firagun
+---
+16037: Blizzagun
+---
+16046: The Interceptor Map
+---
+16047: A map of the area.
+---
+16048: The Black Pearl Map
+---
+16049: A map of the area.
+---
+16050: Isla de Muerta Map
+---
+16051: A map of the area.
+---
+16052: Ship Graveyard Map
+---
+16053: A map of the area.
+---
+16054: Moogle LV
+---
+16055: Status
+---
+16075: {:icon dynamic-square}Creations
+---
+16076: {:icon dynamic-square}Free Development
+---
+16077: {:icon dynamic-square}Recipes
+---
+16080: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Obtained {:color #FFFF0080}{:unk0d }{:unk0d }{:reset}
+for completing the collection.
+---
+16081: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Moogle{:color #FFFF0080} leveled up!{:reset}
+{:unk0d }
+---
+16095: Jump on
+---
+16096: Jump
+---
+16097: Christmas Town Map
+---
+16098: A map of the area.
+---
+16099: Curly Hill Map
+---
+16100: A map of the area.
+---
+16101: Oasis Map
+---
+16102: A map of the area.
+---
+16103: Savannah Map
+---
+16104: A map of the area.
+---
+16105: Castle Perimeter Map
+---
+16106: A map of the area.
+---
+16107: The Great Maw Map
+---
+16108: A map of the area.
+---
+16109: I/O Tower Map
+---
+16110: A map of the area.
+---
+16111: Central Computer Core Map
+---
+16112: A map of the area.
+---
+16113: Solar Sailer Simulation Map
+---
+16114: A map of the area.
+---
+16116: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+{:color #FFFF0080}{:icon gem-serenity}Serenity{:reset} Materials
+are needed to synthesize this item.
+Check {:color #FFFF0080}{:icon gem-serenity}Serenity{:reset} Materials to continue.
+---
+16117: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Not enough Materials. Synthesis can be
+performed by checking {:color #FFFF0080}{:icon gem-energy}Energy{:reset} Materials.
+Please check {:color #FFFF0080}{:icon gem-energy}Energy{:reset} Materials to
+continue.
+---
+16118: Synthesized item!
+---
+16133: Sora:
+
+---
+16134: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Stock is full. Cannot synthesize.
+---
+16152: Sora:
+We´ve got to go after Auron!
+---
+16153: ₓₓₓ
+---
+16154: Synthesize
+---
+16155: Quit
+---
+16156: Synthesize item.
+---
+16157: Cancel synthesis.
+---
+16158: Increase Moogle's Level.
+---
+16159: Lessens necessary amount of 
+Materials by half.
+---
+16160: Synthesize item of a higher 
+rank.
+---
+16161: In stock
+---
+16479: {:color #FFFF0080}Can use {:icon gem-bright}Brightness & {:icon gem-energy}Energy Materials!{:reset}
+Use when synthesizing items!
+---
+16480: {:color #FFFF0080}Can use {:icon gem-serenity}Serenity Materials!{:reset}
+Use in old creations found in Creations!
+---
+16481: {:color #FFFF0080}Can use up to two extra Materials!{:reset}
+---
+16482: {:color #FFFF0080}Rank {:icon rank-c} recipe Materials cut by half!{:reset}
+Items in Creations can be synthesized using
+only half the Materials!
+---
+16483: {:color #FFFF0080}Rank {:icon rank-b} recipe Materials cut by half!{:reset}
+Items in Creations can be synthesized using
+only half the Materials!
+---
+16484: {:color #FFFF0080}Rank {:icon rank-a} recipe Materials cut by half!{:reset}
+Items in Creations can be synthesized using
+only half the Materials!
+---
+16485: {:color #FFFF0080}Make new items in Free Development!{:reset}
+---
+16486: {:color #FFFF0080}Rank {:icon rank-s} recipe Materials cut by half!{:reset}
+Items in Creations can be synthesized using
+only half the Materials!
+---
+16510: Heelflip
+---
+16511: Pop-Jump
+---
+16512: 360° Spin
+---
+16513: Method Grab
+---
+16514: Air Walk
+---
+16515: Handstand
+---
+16574: Sora:
+Let´s head up and see
+what´s going on.
+---
+16668: Sora:
+We´ve got to get that data back!
+---
+16701: Sora:
+It doesn´t look like we can
+go this way!
+---
+16702: ₓₓₓ
+---
+16703: Sora:
+There´s a lot of fallen rocks.
+It´s probably too dangerous.
+---
+16704: ₓₓₓ
+---
+16705: Sora:
+There's a lot of fallen rocks.
+It's probably too dangerous.
+---
+16706: ₓₓₓ
+---
+16751: Roxas:
+Gotta get to the armor shop!
+---
+16752: Roxas:
+Better head for the accessory shop.
+---
+16753: Roxas:
+Let me talk to the owner first.
+---
+16754: Roxas:
+Gotta get to the candy store!
+---
+16755: Roxas:
+I should try to find that cat.
+---
+16756: Roxas:
+But which weapon should I choose?
+---
+16757: Roxas:
+I´m not about to run away!
+---
+16758: Roxas:
+I´m not about to run away!
+---
+16759: Roxas:
+I...think I should stand in that light.
+---
+16760: Roxas:
+Wonder what's in that chest.
+---
+16761: Roxas:
+I´m not about to run away!
+---
+16762: Roxas:
+I´m not about to run away!
+---
+16763: Roxas:
+I´m not about to run away!
+---
+16774: Roxas:
+I´m still on the clock!
+---
+16775: Roxas:
+I´m still on the clock!
+---
+16776: Roxas:
+I´m still on the clock!
+---
+16777: Roxas:
+I´m still on the clock!
+---
+16778: Roxas:
+I´m still on the clock!
+---
+16779: Roxas:
+I´m still on the clock!
+---
+16780: Roxas:
+I´ve got to get to the bottom of this!
+---
+16781: Roxas:
+I´ve got to get to the bottom of this!
+---
+16782: Roxas:
+I´ve got to get to the bottom of this!
+---
+16783: Roxas:
+I´ve got to get to the bottom of this!
+---
+16787: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+{:color #FFFF0080}{:unk0d }{:unk0d }{:reset} can now be purchased at
+shops for completing the collection.
+---
+16788: There are no rewards.
+---
+16826: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Learned to synthesize new items
+through {:color #FFFF0080}Free Development{:reset}, gained
+from completing the collection.
+---
+16827: Sora:
+Let´s ask Will when
+she´ll be sailing.
+---
+16828: 
+---
+16829: Sora:
+
+---
+16830: 
+---
+16831: Sora:
+
+---
+16832: 
+---
+16833: Sora:
+
+---
+16834: 
+---
+16835: {:unk0d }Free Development
+---
+16836: {:unk0d }Sell at Shop
+---
+16837: {:icon ai-settings}
+---
+16862: Ohana!
+---
+16863: Window of Time Map
+---
+16864: A map of the area.
+---
+16940: The Underdrome
+---
+16941: Grind
+---
+16942: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+ This accessory cannot be changed with
+ current abilities equipped. To equip,
+ first unequip abilities from the Ability menu.
+---
+16943: Counter
+---
+16951: EXP
+---
+16952: 
+---
+17033: Shoot
+---
+17034: Ukulele
+---
+17047: Blast
+---
+17048: Berserk
+---
+17051: FPS Mode
+---
+17052: Balls
+---
+17053: Firecracker
+---
+17054: End
+---
+17061: Sora:
+Maybe we should check out
+the monument.
+---
+17078: "Valor" Genie
+---
+17079: "Wisdom" Genie
+---
+17080: "Master" Genie
+---
+17081: "Final" Genie
+---
+17088: Sora:
+The ship should be at Port Royal.
+---
+17089: Sora:
+The ship should be at Isla de Muerta.
+---
+17090: Sora:
+The ship should be at the ship graveyard.
+---
+17091: Sora:
+The ship should be at Isla de Muerta.
+---
+17103: Berserk
+---
+17141: {:width 98}Camera Up/Down
+---
+17142: {:width 98}Camera Left/Right
+---
+17143: Summon Effects
+---
+17144: Original
+---
+17145: Reverse
+---
+17146: Move {:icon dynamic-right-analog} down to look down, and up
+to look up.
+---
+17147: Move {:icon dynamic-right-analog} down to look up, and up
+to look down.
+---
+17148: Original
+---
+17149: Reverse
+---
+17150: Move {:icon dynamic-right-analog} left to look left, and right
+to look right.
+---
+17151: Move {:icon dynamic-right-analog} left to look right, and right
+to look left.
+---
+17152: Full
+---
+17153: None
+---
+17154: Auto
+---
+17155: Show full Summon effects.
+---
+17156: Do not show Summon effects.
+---
+17157: Show partial Summon effects.
+---
+17165: Sonic
+---
+17166: Rave
+---
+17167: Strike
+---
+17168: Judgment
+---
+17169: Arcana
+---
+17170: Bash
+---
+17171: Infinity
+---
+17172: Impact
+---
+17194: Valor
+---
+17195: Wisdom
+---
+17196: Master
+---
+17197: Final
+---
+17198: NEW GAME
+---
+17199: Begin with these settings?
+---
+17200: Select Game Mode.
+---
+17201: Beginner Mode
+---
+17202: Standard Mode
+---
+17203: Proud Mode
+---
+17204: An easier mode for beginners.
+{:color #F0F00080}(Only the normal ending can be viewed
+in this mode.)
+---
+17205: A balanced mode that's not too hard
+but not too easy. Best for those
+challenging this game for the first time.
+{:color #F0F00080}(All endings can be viewed in this mode.)
+---
+17206: A difficult mode with stronger enemies.
+Best for those seeking a challenge.
+{:color #F0F00080}(There is a good chance of unlocking
+the secret ending.)
+---
+17207: Select vibration function.
+---
+17208: ON
+---
+17209: OFF
+---
+17210: Enable vibration function of gamepad.
+---
+17211: Disable vibration function of gamepad.
+---
+17212: Select sound type.
+---
+17213: Stereo
+---
+17214: Pro Logic II
+---
+17215: Monaural
+---
+17216: Play with Stereo Sound.
+---
+17217: Play with Dolby Pro Logic II.
+Enjoy surround sound with a system
+that supports Dolby Pro Logic II.
+---
+17238: Play with Mono Sound.
+---
+17239: Auto Assault
+---
+17240: The Keyblade automatically unleashes
+attacks in various situations.
+---
+17280: Game Mode
+---
+17281: Vibration
+---
+17282: Sound
+---
+17283: Yes
+---
+17284: No
+---
+17343: Pick It Up
+---
+17351: Take It
+---
+17394: Form Gauge Powered Up!
+---
+17395: Sora:
+
+---
+17396: 
+---
+17397: Sora:
+We should get out of here.
+---
+17398: 
+---
+17399: Sora:
+There aren´t any hyenas
+over here.
+---
+17400: 
+---
+17401: Sora:
+What else did we have to do...?
+---
+17402: 
+---
+17409: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Items from previously visited shops will
+become available at shops in large towns.
+---
+17410: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Items from previously visited shops will
+become available at shops in large towns.
+---
+17445: Capture
+---
+17481: Roxas:
+Everyone´s waiting at Market Street!
+---
+17482: Roxas:
+We´ve gotta buy our tickets!
+---
+17483: Roxas:
+We need to make some munny
+before we can ride...
+---
+17484: Roxas:
+We´re meeting at the station, right?
+---
+17485: Roxas:
+She was headed for the haunted mansion.
+---
+17486: Roxas:
+Doesn´t look like she´s around here...
+---
+17487: HP cannot be restored in this Form!
+Return to normal Form when the Form Gauge hits 0,
+or select Revert when there are no enemies in sight!
+---
+17550: Materials
+---
+17551: Current synthesis materials in stock.
+---
+17564: 
+---
+17565: 
+---
+17566: 
+---
+17567: 
+---
+17568: 
+---
+17569: 
+---
+17586: Inside Combo
+---
+17708: Save
+---
+17721: Journal
+---
+17722: Read Roxas´s Journal.
+---
+17723: Facedown
+---
+17724: Clash
+---
+17725: Break Through
+---
+17726: Finish
+---
+17728: Roxas:
+The tournament´s at the sandlot, right?
+---
+17729: 
+---
+17730: Roxas:
+I´ve gotta get to the Struggle
+Tournament!
+---
+17731: 
+---
+17732: Roxas:
+I should check out
+the haunted mansion.
+---
+17733: 
+---
+17734: Roxas:
+That voice said to go to the mansion...
+---
+17735: 
+---
+17736: Roxas:
+Why don´t I take a look inside...?
+---
+17737: 
+---
+17738: Sora:
+I´ve got stuff to do.
+---
+17739: 
+---
+17740: Sora:
+I´ve got to get on that train!
+---
+17741: 
+---
+17742: Sora:
+We´d better not--not with
+Pete there.
+---
+17743: 
+---
+17752: Bounce
+---
+17753: LV
+---
+17754: {:width 90}Experience
+---
+17755: Next LV
+---
+17756: HP
+---
+17757: MP
+---
+17758: AP
+---
+17759: Drive Gauge
+---
+17760: Strength
+---
+17761: Magic
+---
+17762: Defense
+---
+17763: Fire {:width 80}Resistance
+---
+17764: {:width 90}Blizzard {:width 80}Resistance
+---
+17765: {:width 90}Thunder {:width 80}Resistance
+---
+17766: Dark {:width 80}Resistance
+---
+17767: Bonus LV
+---
+17768: Summon LV
+---
+17769: Form LV
+---
+17774: {:width 90}The character´s current Level. Values for
+attributes such as Strength, Magic, Defense,
+and AP will increase when leveling up.
+---
+17775: Total amount of experience earned.
+Experience is earned when enemies
+are defeated.
+---
+17776: Experience needed to reach the next
+Level.
+---
+17777: Current HP and maximum HP.
+---
+17778: Current MP and maximum MP.
+---
+17779: A necessity for equipping Abilities.
+Increase maximum AP value by equipping
+certain Accessories.
+---
+17780: A gauge used for Drives and Summons.
+Obtain orbs to fill the gauge.
+---
+17781: The character´s current Strength.
+The higher the number, the more
+damage is dealt to enemies.
+---
+17782: The character´s current Magic Skill.
+The higher the number, the more damage
+is dealt to enemies through Magic.
+---
+17783: The character´s current Defense.
+The higher the number, the less
+damage is taken from enemies.
+---
+17784: {:width 95}Resistance against fire-based attacks.
+The higher the number, the less damage
+is taken from these attacks.
+---
+17785: {:width 95}Resistance against blizzard-based
+attacks. The higher the number, the
+less damage is taken from these attacks.
+---
+17786: {:width 95}Resistance against thunder-based
+attacks. The higher the number, the
+less damage is taken from these attacks.
+---
+17787: {:width 95}Resistance against darkness-based
+attacks. The higher the number, the less
+damage is taken from these attacks.
+---
+17788: {:width 90}A Level which increases by defeating certain
+enemies. HP and MP increases, and special
+powers are gained by leveling up.
+---
+17789: Summons Level. The Summon Gauge
+increases, and the summon´s magic skills
+increase by leveling up.
+---
+17790: Valor Form Level. Time spent
+transformed becomes longer, and
+Abilities become stronger by leveling up.
+---
+17791: Wisdom Form Level. Time spent
+transformed becomes longer, and
+Abilities become stronger by leveling up.
+---
+17792: Master Form Level. Time spent
+transformed becomes longer, and
+Abilities become stronger by leveling up.
+---
+17793: Final Form Level. Time spent
+transformed becomes longer, and
+Abilities become stronger by leveling up.
+---
+17795: Form Gauge
+---
+17796: For each attack dealt to the enemy
+in Valor Form, 1 point of experience
+is gained.
+---
+17797: Experience necessary to level up.
+The Level cap depends on the number of
+Forms obtained.
+---
+17798: The Form gauge for Valor Form.
+The longer the gauge, the longer
+the time spent transformed.
+---
+17799: For each Heartless defeated in Wisdom
+Form, 1 point of experience is gained.
+---
+17800: Experience necessary to level up.
+The Level cap depends on the number of
+Forms obtained.
+---
+17801: The Form gauge for Wisdom Form.
+The longer the gauge, the longer
+the time spent transformed.
+---
+17802: {:width 80}Each small drive orb gives 1 point of experience,
+and one big drive orb gives 3 points of experience
+for each drive prize obtained in Master Form.
+---
+17803: Experience necessary to level up.
+The Level cap depends on the number of
+Forms obtained.
+---
+17804: The Form gauge for Master Form.
+The longer the gauge, the longer
+the time spent transformed.
+---
+17805: For each Nobody defeated in Final Form,
+1 point of experience is gained.
+---
+17806: Experience necessary to level up.
+The Level cap depends on the number of
+forms obtained.
+---
+17807: The Form gauge for Final Form.
+The longer the gauge, the longer
+the time spent transformed.
+---
+17808: Summon Gauge
+---
+17809: Stitch
+---
+17810: Genie
+---
+17811: Peter Pan
+---
+17812: Chicken Little
+---
+17813: While summoning, 1 experience is gained
+for every 1 point consumed by
+the Summon Gauge.
+---
+17814: Experience necessary to level up.
+The Level cap depends on the number of
+Summons obtained.
+---
+17815: Your current Summon Gauge.
+The longer the gauge, the longer
+the summon stays active.
+---
+17816: Stitch will parry most enemy attacks.
+A wise summon to use for defense.
+---
+17817: Genie has many Limit attacks and
+can transform into various Forms.
+---
+17818: {:width 85}Peter Pan will help Sora fight against enemies.
+If Sora falls during battle, Tinker Bell will be
+able to revive him one time.
+---
+17819: Chicken Little can stop enemy
+movements and bring distant enemies in
+close to attack!
+---
+17834: Valor LV
+---
+17835: Wisdom LV
+---
+17836: Master LV
+---
+17837: Final LV
+---
+17838: {:unk0d }´s Status.
+---
+17839: {:unk0d }´s Form Status.
+---
+17840: Summons Status. A friend will come and
+help Sora when called upon.
+{:color #F0F00080}Drive points consumed: 3{:reset}
+---
+17841: Summon
+---
+17847: Sora:
+
+---
+17848: 
+---
+17849: Sora:
+We need the password to
+the DTD!
+---
+17850: 
+---
+17851: Sora:
+
+---
+17852: 
+---
+17853: {:width 90}Summon Gauge Powered Up!
+---
+17854: Session
+---
+17855: Last Saber
+---
+17856: Dark Cannon
+---
+17857: {XIII} Blades
+---
+17858: Master Hearts
+---
+17859: All´s End
+---
+17862: Call Over
+---
+17904: Move Left
+---
+17905: Move Right
+---
+17921: Wee Tornado
+---
+17922: {:width 95}Giant Tornado
+---
+17925: Twin Counter
+---
+17926: Sonic Dive
+---
+17992: AP
+---
+17993: S{:width 80}trength
+---
+17994: Magic
+---
+17995: Defense
+---
+17996: Ability
+---
+17997: Fire {:width 80}Resistance
+---
+17998: {:width 90}Blizzard {:width 80}Resistance
+---
+17999: {:width 90}Thunder {:width 80}Resistance
+---
+18000: Dark {:width 80}Resistance
+---
+18001: Fire
+---
+18002: Blizzard
+---
+18003: Thunder
+---
+18004: Dark
+---
+18007: Finishing Blast
+---
+18008: Deals damage to nearby enemies
+at the end of a combo with {:icon dynamic-square}.
+---
+18009: Combo Upper
+---
+18010: Knocks a target into the air
+during a combo with {:icon dynamic-square}.
+---
+18011: Aerial Impulse
+---
+18012: Tackles and attacks a target
+in midair during a combo with {:icon dynamic-square}.
+---
+18013: Retaliating Smash
+---
+18014: When knocked down, quickly regains
+balance and attacks with {:icon dynamic-square}.
+---
+18019: Sora:
+Something´s up at the sandlot!
+---
+18020: 
+---
+18021: Sora:
+Something´s up at the sandlot!
+---
+18022: 
+---
+18023: Sora:
+Gotta get to the station
+on the double!
+---
+18024: 
+---
+18025: Sora:
+Something´s up at the sandlot!
+---
+18026: 
+---
+18027: Sora:
+Gotta get to the station
+on the double!
+---
+18028: 
+---
+18029: Sora:
+Something´s up at the sandlot!
+---
+18030: 
+---
+18031: Sora:
+Gotta get to the station
+on the double!
+---
+18032: 
+---
+18033: Sora:
+Hmm, not this way...
+---
+18034: 
+---
+18035: Sora:
+Hmm, not this way...
+---
+18036: 
+---
+18037: Sora:
+Hmm, not this way...
+---
+18038: 
+---
+18039: Sora:
+Hmm, not this way...
+---
+18040: 
+---
+18043: Promise Charm
+---
+18044: A charm from Kairi. It represents
+her wish to meet Sora again,
+no matter how far apart they are.
+---
+18050: Sora:
+Let´s hurry up and find Tron!
+---
+18051: 
+---
+18052: Sora:
+
+---
+18053: 
+---
+18054: Sora:
+
+---
+18055: 
+---
+18056: Sora:
+
+---
+18057: 
+---
+18058: Sora:
+Tron´s waiting for us!
+---
+18059: 
+---
+18060: Sora:
+
+---
+18061: 
+---
+18062: Sora:
+Let´s get the energy core
+online first.
+---
+18063: 
+---
+18064: Sora:
+The terminal´ll get us back
+to Hollow Bastion.
+---
+18065: 
+---
+18066: Sora:
+The MCP´s disabled the elevators!
+---
+18067: 
+---
+18068: Eclipse
+---
+18069: Magna Storm
+---
+18071: Approach
+---
+18110: Running Tackle
+---
+18111: Unleashes a rapid tackle on a single
+target while attacking during Dash.
+---
+18112: Dash
+---
+18113: Moves rapidly while pressing down {:icon dynamic-square}.
+---
+18120: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+Insufficient free space on system storage.
+At least 69 KB of free space is required
+to save your game.
+---
+18122: Loot Launch
+---
+18201: Vault
+---
+18202: Kickspring
+---
+18398: Harbor
+---
+18399: Isla de Muerta: Rock Face
+---
+18402: Drive?
+---
+18465: Final Arcana
+---
+18466: Handling the Keyblade with great skill,
+unleashes a powerful finishing combo
+move to a single target.
+---
+18467: Final Strike
+---
+18468: While spinning in midair, deals
+a powerful finishing combo move
+to a single target.
+---
+18469: Final Arts
+---
+18470: Unleashes a powerful finishing combo
+move to get rid of several targets
+at once.
+---
+18471: Crime & Punishment
+---
+18472: A Keyblade held in each hand
+unleashes powerful magic spells.
+---
+18480: Sora:
+Leon will have all the details.
+---
+18481: 
+---
+18565: Sunset Hill Map
+---
+18566: A map of the area.
+---
+18567: Mansion Map
+---
+18568: A map of the area.
+---
+18569: Tower Map
+---
+18570: A map of the area.
+---
+18571: DH Map
+---
+18572: A map of the area.
+---
+18573: Sora:
+We´ve got to get rid of
+these Heartless!
+---
+18575: There are no items.
+---
+18585: Dark Aura
+---
+18586: Dark Shield
+---
+18592: Stunt Dodge
+---
+18595: Hit
+---
+18682: Munny Pouch
+---
+18683: A pouch from the King.
+There´s 5,000 munny inside for
+some reason.
+---
+18692: Castle That Never Was Map
+---
+18693: A map of the area.
+---
+18755: Sora:
+We can´t interrupt training!
+---
+18756: Sora:
+We can´t interrupt training!
+---
+18757: Sora:
+We can´t interrupt training!
+---
+18758: Sora:
+We can´t interrupt training!
+---
+18774: The Old Mansion
+---
+18808: Sora:
+We´ve got to log in to
+that computer!
+---
+18809: 
+---
+18810: Sora:
+We have to go restart
+the terminal!
+---
+18811: 
+---
+18812: Sora:
+The terminal should take us
+to the game grid!
+---
+18813: ₓₓₓ
+---
+18855: Sora:
+I can´t ride my skateboard there.
+---
+18856: Sora:
+I can´t ride my skateboard there.
+---
+18857: Sora:
+I can´t ride my skateboard there.
+---
+18858: Sora:
+I can´t ride my skateboard there.
+---
+18859: Sora:
+I can´t ride my skateboard there.
+---
+18860: Sora:
+I can´t ride my skateboard there.
+---
+18861: Sora:
+I can´t ride my skateboard there.
+---
+18862: Sora:
+I can´t ride my skateboard there.
+---
+18928: Sora:
+Wait for Will´s signal!
+---
+18950: Flip
+---
+18953: Slicer
+---
+18954: Escablade
+---
+18955: Sky Scraper
+---
+18964: Capsule Prize
+---
+18965: Rare Capsule
+---
+18966: Limited Capsule
+---
+18967: Prime Capsule
+---
+18994: Roxas:
+I´m not about to run away!
+---
+18995: Roxas:
+I´m not about to run away!
+---
+19005: Roxas:
+Gotta follow him!
+---
+19006: 
+---
+19007: Sora:
+This isn´t the right train.
+---
+19008: 
+---
+19011: {:width 90}Return Medallions
+---
+19030: Read The Book
+---
+19031: Sora:
+We´ve got to get rid of
+these hyenas!
+---
+19032: Sora:
+We´ve got to get rid of
+these hyenas!
+---
+19033: Sora:
+We have to capture them!
+---
+19073: Roll Up
+---
+19074: Spin Burst
+---
+19113: Sora:
+We can´t let Pete get away!
+---
+19114: Sora:
+I´m not about to run away!
+---
+19115: Sora:
+I´m not about to run away!
+---
+19116: Sora:
+I´m not about to run away!
+---
+19209: Proceed
+---
+19310: Riding Shot
+---
+19311: Sora:
+
+---
+19312: 
+---
+19314: Roxas:
+Let´s get to Sunset Hill!
+---
+19315: 
+---
+19316: Sora:
+I can´t enter yet. Are they
+working on it?
+---
+19317: 
+---
+19318: Sora:
+We have to hurry to the mansion!
+---
+19319: 
+---
+19321: Meteor Rain
+---
+19341: Unequip armor.
+---
+19342: Unequip accessories.
+---
+19343: Valor Form Status.
+A Form specializing in physical attacks.
+{:color #F0F00080}Drive points consumed: 3{:reset}
+---
+19344: Wisdom Form Status.
+A Form specializing in magic attacks.
+{:color #F0F00080}Drive points consumed: 3{:reset}
+---
+19345: Master Form Status. A Form that 
+handles both the Keyblade and magic.
+{:color #F0F00080}Drive points consumed: 4{:reset}
+---
+19346: Final Form Status. A Form that 
+unleashes the Keyblade´s true power.
+{:color #F0F00080}Drive points consumed: 5{:reset}
+---
+19350: 
+---
+19352: {:unk 72}Points
+---
+19353: Time:{:unk 72}
+---
+19354: Round{:unk 72}
+---
+19355: –––
+---
+19361: Attack
+---
+19362: Dark Aura
+---
+19363: Rescue
+---
+19370: Reflect
+---
+19371: Reflect
+---
+19375: Megalaser
+---
+19376: Sora:
+There´s no turning back now...
+---
+19381: Touch It
+---
+19388: Sora:
+ₓₓₓ
+---
+19389: ₓₓₓ
+---
+19406: There´s a rare Heartless!
+---
+19416: PAGE 
+---
+19417: What is Auto-Reload?
+---
+19418: What is MP Charge?
+---
+19419: What are Abilities?
+---
+19420: What are Sub-Weapons?
+---
+19421: {:icon dynamic-select}{:width 20} {:width 100}Help
+---
+19428: Firagun
+---
+19429: Blizzagun
+---
+19435: Sora:
+There´s no turning back now...
+---
+19466: High Score
+---
+19467: Record
+---
+19470: Hades Cup Trophy
+---
+19471: Trophy presented to the champion of
+the Hades Paradox Cup. It is proof
+of having won many severe battles.
+---
+19480: Game LV
+---
+19481: {:width 95}Completion of Jiminy´s Journal
+---
+19482: Completion of Gummi Routes
+---
+19483: Healed Party Members
+---
+19484: Saved by Mickey
+---
+19485: Most Used Form
+---
+19486: Used Antiform
+---
+19487: Most Used Summon
+---
+19488: {:color #F0F00080} {:reset}Time(s)
+---
+19492: BATTLE REPORT
+---
+19541: {:width 90}"The Struggle" Trophy
+---
+19542: Trophy from the Struggle Tournament.
+It is decorated with four crystals.
+---
+19552: Block
+---
+19561: The departing member has surrendered their equipment.
+---
+19562: Sora:
+I´ll ask the others if we´re
+ready to leave.
+---
+19563: 
+---
+19565: Block
+---
+19573: Sora:
+I´m still on the clock!
+---
+19574: Sora:
+I´m still on the clock!
+---
+19575: Sora:
+I´m still on the clock!
+---
+19576: Sora:
+I´m still on the clock!
+---
+19577: Sora:
+I´m still on the clock!
+---
+19578: Sora:
+I´m still on the clock!
+---
+19581: {:unk0d }Free Development 2
+---
+19582: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Learned to synthesize more new
+items through {:color #FFFF0080}Free Development{:reset},
+gained from completing the collection.
+---
+19600: {:unk 72}Swings
+---
+19615: {:width 80}Ping will be joining the party. Party Members cannot be switched and
+summons cannot be used for some time.
+---
+19620: Sora:
+But what about the powder
+kegs?
+---
+19820: COM (1)
+---
+19821: COM (2)
+---
+19822: COM (3)
+---
+19823: COM (4)
+---
+19824: COM (5)
+---
+19825: COM (6)
+---
+19826: COM (7)
+---
+19827: COM (8)
+---
+19828: COM (9)
+---
+19829: COM (10)
+---
+19830: COM (11)
+---
+19834: COM (12)
+---
+19835: COM (13)
+---
+19836: COM (14)
+---
+19857: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+
+No controller detected.
+---
+19862: LV
+---
+19988: Cavern of Remembrance: Depths
+---
+19989: Cavern of Remembrance: Mining Area
+---
+19990: Cavern of Remembrance: Engine Chamber
+---
+19991: Cavern of Remembrance: Mineshaft
+---
+19992: Transport to Remembrance
+---
+19993: Garden of Assemblage
+---
+19994: Underground Facility
+---
+19995: Memory's Contortion
+---
+19996: The World of Nothing
+---
+19997: Hall of Empty Melodies
+---
+19998: Bridgeₓₓₓₓₓₓₓ
+---
+19999: The Old Mansion
+---
+20000: Station of Remembrance
+---
+20001: Destiny Island
+---
+20002: Addled Impasse
+---
+20003: Mansion: Basement Hall
+---
+20004: Havoc's Divide
+---
+20005: Station of Oblivion
+---
+20006: Station of Awakening
+---
+20007: Gathering Place
+---
+20008: Combo Master
+---
+20009: Unleash a combo whether or not
+your hits land.
+---
+20010: Drive Converter
+---
+20011: Increases the drop rate of drive orbs
+in place of munny.
+Equip more to increase the effect.
+---
+20012: Light & Darkness
+---
+20013: Has a special secret effect.
+---
+20014: Damage Control
+---
+20015: Halves damage taken at critical moments.
+Equip two to accelerate the effect.
+---
+20016: Critical Mode
+---
+20017: A true test of skill for the adept.
+The Game Mode cannot be changed
+once the game has started.
+---
+20018: Critical Mode
+---
+20019: Critical Mode
+---
+20020: A true test of skill for the adept. Begin
+with certain abilities and other perks.
+{:color #F0F00080}(There is a great chance of unlocking
+the secret ending.)
+---
+20021: Two Become One
+---
+20022: A weapon of great strength and magic
+that has a special effect.
+---
+20023: Winner's Proof
+---
+20024: A weapon of extraordinary magic
+and great strength.
+Disables the gaining of experience.
+---
+20025: Centurion
+---
+20026: A staff with extraordinary strength
+and great magic.
+---
+20027: Centurion+
+---
+20028: A staff with extraordinary strength
+and great magic. Halves damage
+taken in critical situations.
+---
+20029: Plain Mushroom
+---
+20030: A staff that doesn't look like much of
+a weapon.
+---
+20031: Plain Mushroom+
+---
+20032: A staff with some magic power.
+---
+20033: {:width 90}Precious Mushroom
+---
+20034: A staff with great magic.
+Increases MP restoration speed
+by {:color #F0F00080}25%{:reset} after MP is fully consumed.
+---
+20035: {:width 75}Precious Mushroom+
+---
+20036: A staff with tremendous magic.
+Increases MP restoration speed
+by {:color #F0F00080}50%{:reset} after MP is fully consumed.
+---
+20037: {:width 90}Premium Mushroom
+---
+20038: A staff with the most powerful magic.
+Increases MP restoration speed
+by {:color #F0F00080}75%{:reset} after MP is fully consumed.
+---
+20039: Frozen Pride
+---
+20040: A shield with the greatest defense.
+---
+20041: Frozen Pride+
+---
+20042: A shield with the greatest defense.
+Increases MP restoration speed
+by {:color #F0F00080}75%{:reset} after MP is fully consumed.
+---
+20043: {:width 95}Joyous Mushroom
+---
+20044: A flimsy shield.
+---
+20045: {:width 90}Joyous Mushroom+
+---
+20046: A shield with a little strength.
+---
+20047: {:width 90}Majestic Mushroom
+---
+20048: A shield with great strength.
+Absorbs {:color #F0F00080}10%{:reset} of damage taken.
+---
+20049: {:width 75}Majestic Mushroom+
+---
+20050: A shield with tremendous strength.
+Absorbs {:color #F0F00080}20%{:reset} of damage taken.
+---
+20051: {:width 90}Ultimate Mushroom
+---
+20052: A shield with the greatest strength.
+Absorbs {:color #F0F00080}40%{:reset} of damage taken.
+---
+20053: Ready, Go!
+---
+20054: Restore Count
+---
+20055: Aerial Strike
+---
+20082: Flash Step
+---
+20083: Unleashes a guard-piercing attack on
+a slightly distant target while keeping up
+your own guard.
+---
+20084: Aerial Dive
+---
+20085: Unleashes a powerful aerial attack
+on distant targets.
+---
+20086: Magnet Burst
+---
+20087: Draws enemies in to unleash a finishing
+combo move. Damage dealt
+is relative to magic skill.
+---
+20088: Vicinity Break
+---
+20089: Unleashes a powerful attack
+when surrounded.
+---
+20090: Pull
+---
+20091: Battle Report
+---
+20094: The End
+---
+20095: Limit Form
+---
+20096: Limit
+---
+20097: Limit Form
+---
+20098: Access Limit Form alone with the help
+of friends faraway.
+---
+20099: Dodge Roll LV 1
+---
+20100: Dodge enemy attacks by using {:icon dynamic-left-analog}
+and pressing {:icon dynamic-square}.
+More efficient at higher Levels.
+---
+20101: Dodge Roll LV 2
+---
+20102: Dodge enemy attacks by using {:icon dynamic-left-analog}
+and pressing {:icon dynamic-square}.
+More efficient at higher Levels.
+---
+20103: Dodge Roll LV 3
+---
+20104: Dodge enemy attacks by using {:icon dynamic-left-analog}
+and pressing {:icon dynamic-square}.
+More efficient at higher Levels.
+---
+20105: Dodge Roll MAX
+---
+20106: Dodge enemy attacks by using {:icon dynamic-left-analog}
+and pressing {:icon dynamic-square}.
+More efficient at higher Levels.
+---
+20107: Auto Limit
+---
+20108: Automatically sets the Reaction
+Command to Limit in a pinch, if
+Limit Form is usable.
+---
+20109: Sonic Rave
+---
+20110: A Limit Command that unleashes an attack
+on an enemy as you pass by. Press {:icon dynamic-triangle} at
+the right tempo for a combo. {:color #F0F00080}MP Cost:{:width 100} 60{:reset}
+---
+20111: Last Arcanum
+---
+20112: A Limit Command that unleashes
+a powerful combo attack. Press {:icon dynamic-triangle} for
+a consecutive combo. {:color #F0F00080}MP Cost:{:width 100} 75{:reset}
+---
+20113: Strike Raid
+---
+20114: A Limit Command that allows you to throw
+the Keyblade at the target.
+Press {:icon dynamic-triangle} for a combo. {:color #F0F00080}MP Cost:{:width 100} 65{:reset}
+---
+20115: Infinity
+---
+20116: A Limit Command that can be unleashed by
+pressing {:icon dynamic-triangle} after an aerial combo.
+{:color #F0F00080}MP Cost:{:width 100} 80{:reset}
+---
+20117: Zantetsuken
+---
+20118: Unleashes a finishing combo move on
+a single target. This powerful attack can
+instantly eliminate weaker enemies.
+---
+20119: Ripple Drive
+---
+20120: Unleashes a finishing combo move
+when surrounded. Damage dealt
+is relative to magic skill.
+---
+20121: Hurricane Period
+---
+20122: Unleashes a powerful finishing combo
+move consisting of an aerial barrage.
+---
+20123: Limit LV
+---
+20124: For each limit command finishing move
+unleashed in Limit Form, 1 point of
+experience is gained.
+---
+20125: Experience necessary to level up.
+The Level cap depends on the number of
+Forms obtained.
+---
+20126: The Form gauge for Limit Form.
+The longer the gauge, the longer
+the time spent transformed.
+---
+20127: Limit
+---
+20128: Limit Form Status.
+A form specializing in Limit attacks.
+{:color #F0F00080}Cost: 4{:reset}
+---
+20129: Limit Form Level. Time spent
+transformed becomes longer, and
+Abilities become stronger by leveling up.
+---
+20159: {:icon dynamic-cross}: Save   {:icon dynamic-circle}: End Game
+---
+20168: Reversal
+---
+20169: Quick Slide
+---
+20170: {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+
+Save game data. Loading this save data
+will place you before the last battle.
+---
+20171: {:icon question-mark}{:color #FF000080}QUESTION{:reset}
+
+Would you like to return to the title screen
+without saving completed game data?
+---
+20190: Merge
+---
+20191: {:width 85}Remembrance Shard
+---
+20192: A gem shard filled with remembrance.
+A very common ingredient of item
+synthesis.
+---
+20193: {:width 85}Remembrance Stone
+---
+20194: A stone filled with remembrance.
+A common ingredient of item synthesis.
+---
+20195: {:width 90}Remembrance Gem
+---
+20196: A gem abundant with remembrance.
+A rare ingredient of item synthesis.
+---
+20197: {:width 80}Remembrance Crystal
+---
+20198: A mysterious crystal abundant with
+remembrance. A very rare ingredient
+of item synthesis.
+---
+20199: Tranquility Shard
+---
+20200: A gem shard filled with tranquility.
+A very common ingredient of item
+synthesis.
+---
+20201: Tranquility Stone
+---
+20202: A stone filled with tranquility.
+A common ingredient of item synthesis.
+---
+20203: Tranquility Gem
+---
+20204: A gem abundant with tranquility.
+A rare ingredient of item synthesis.
+---
+20205: Tranquility Crystal
+---
+20206: A mysterious crystal abundant with
+tranquility. A very rare ingredient of
+item synthesis.
+---
+20207: Lost Illusion
+---
+20208: A magical ore.
+An ingredient of item synthesis.
+---
+20209: Manifest Illusion
+---
+20210: A possibly magical ore.
+An ingredient of item synthesis.
+---
+20211: Dark Remembrance Map
+---
+20212: A map of the area.
+---
+20214: Infinity
+---
+20215: Shoot
+---
+20216: Impact
+---
+20217: Giga Impact
+---
+20220: Turn On
+---
+20221: Access
+---
+20222: Sonic Rave
+---
+20223: Rave
+---
+20224: Finish
+---
+20225: Last Arcanum
+---
+20226: Bash
+---
+20227: The End
+---
+20228: Strike Raid
+---
+20229: Raid
+---
+20230: Judgment
+---
+20235: Limit
+---
+20236: Mega Impact
+---
+20237: Return to Menu
+---
+20240: Activate
+---
+20241: Japaneseₓ
+---
+20242: Englishₓ
+---
+20243: Select a chapter.
+---
+20244: Select a movie.
+---
+20270: Play all
+---
+20325: Zantetsu Counter
+---
+20326: Unleashes Zantetsuken by selecting
+Attack while guarding.
+---
+20327: Reflect Combo
+---
+20328: Blocks enemy attacks with Guard
+by pressing {:icon dynamic-square} during a combo.
+---
+20329: HP Gain
+---
+20330: Restores Sora's HP when
+a Limit Command lands.
+---
+20338: Depths of Remembrance Map
+---
+20339: A map of the area.
+---
+20342: Garden of Assemblage Map
+---
+20343: A map of the area.
+---
+20364: {:width 95}Awakening Puzzle Piece
+---
+20392: {:width 95}Awakening Puzzle Piece
+---
+20393: Heart Puzzle Piece
+---
+20394: Heart Puzzle Piece
+---
+20395: Heart Puzzle Piece
+---
+20396: {:width 95}Awakening Puzzle Piece
+---
+20397: Proof of Connection
+---
+20398: Proof of winning the battle in
+the portal at Disney Castle.
+Perhaps it has changed Sora.
+---
+20399: {:width 90}Proof of Nonexistence
+---
+20400: Proof of defeating all of Organization {XIII}'s
+replica data in the Garden of Assemblage.
+Perhaps it has changed Sora.
+---
+20401: Proof of Peace
+---
+20402: Proof of appeasing the Mushroom {XIII}.
+Perhaps it has changed Sora.
+---
+20403: Illude
+---
+20404: Unlock
+---
+20405: Soothe
+---
+20406: Banish
+---
+20407: Turn
+---
+20408: {:width 95}Awakening Puzzle Piece
+---
+20409: {:width 95}Awakening Puzzle Piece
+---
+20410: {:width 95}Awakening Puzzle Piece
+---
+20411: {:width 95}Awakening Puzzle Piece
+---
+20412: {:width 95}Awakening Puzzle Piece
+---
+20413: {:width 95}Awakening Puzzle Piece
+---
+20416: {:width 95}Awakening Puzzle Piece
+---
+20418: {:width 95}Awakening Puzzle Piece
+---
+20419: {:width 95}Awakening Puzzle Piece
+---
+20422: Duality Puzzle Piece
+---
+20423: Duality Puzzle Piece
+---
+20424: Duality Puzzle Piece
+---
+20425: Duality Puzzle Piece
+---
+20426: Heart Puzzle Piece
+---
+20427: Duality Puzzle Piece
+---
+20428: Heart Puzzle Piece
+---
+20429: Duality Puzzle Piece
+---
+20430: Heart Puzzle Piece
+---
+20431: Duality Puzzle Piece
+---
+20432: Duality Puzzle Piece
+---
+20433: Duality Puzzle Piece
+---
+20434: Duality Puzzle Piece
+---
+20435: Duality Puzzle Piece
+---
+20436: Duality Puzzle Piece
+---
+20437: Daylight Puzzle Piece
+---
+20438: Daylight Puzzle Piece
+---
+20439: Daylight Puzzle Piece
+---
+20440: Daylight Puzzle Piece
+---
+20441: Daylight Puzzle Piece
+---
+20442: Daylight Puzzle Piece
+---
+20443: Daylight Puzzle Piece
+---
+20444: Daylight Puzzle Piece
+---
+20445: Daylight Puzzle Piece
+---
+20446: Daylight Puzzle Piece
+---
+20447: Heart Puzzle Piece
+---
+20448: Daylight Puzzle Piece
+---
+20449: Daylight Puzzle Piece
+---
+20450: Daylight Puzzle Piece
+---
+20451: Heart Puzzle Piece
+---
+20452: Daylight Puzzle Piece
+---
+20453: Daylight Puzzle Piece
+---
+20454: Daylight Puzzle Piece
+---
+20455: Daylight Puzzle Piece
+---
+20456: Heart Puzzle Piece
+---
+20457: Daylight Puzzle Piece
+---
+20458: Daylight Puzzle Piece
+---
+20459: Daylight Puzzle Piece
+---
+20460: Daylight Puzzle Piece
+---
+20461: Daylight Puzzle Piece
+---
+20462: Heart Puzzle Piece
+---
+20463: Daylight Puzzle Piece
+---
+20464: Daylight Puzzle Piece
+---
+20465: Daylight Puzzle Piece
+---
+20466: Daylight Puzzle Piece
+---
+20467: Heart Puzzle Piece
+---
+20468: Daylight Puzzle Piece
+---
+20469: Daylight Puzzle Piece
+---
+20470: Daylight Puzzle Piece
+---
+20471: Heart Puzzle Piece
+---
+20472: Daylight Puzzle Piece
+---
+20473: Daylight Puzzle Piece
+---
+20474: Daylight Puzzle Piece
+---
+20475: Daylight Puzzle Piece
+---
+20476: Daylight Puzzle Piece
+---
+20477: Daylight Puzzle Piece
+---
+20478: Daylight Puzzle Piece
+---
+20479: Daylight Puzzle Piece
+---
+20480: Daylight Puzzle Piece
+---
+20481: Daylight Puzzle Piece
+---
+20482: Daylight Puzzle Piece
+---
+20483: Daylight Puzzle Piece
+---
+20484: Daylight Puzzle Piece
+---
+20485: Daylight Puzzle Piece
+---
+20486: Daylight Puzzle Piece
+---
+20487: Daylight Puzzle Piece
+---
+20488: Daylight Puzzle Piece
+---
+20489: Daylight Puzzle Piece
+---
+20490: Daylight Puzzle Piece
+---
+20491: Protect
+---
+20492: Shields {:color #F0F00080}10%{:reset} of damage dealt to the wearer.
+---
+20493: Protectra
+---
+20494: Shields {:color #F0F00080}20%{:reset} of damage dealt to the wearer.
+---
+20495: Protectga
+---
+20496: Shields {:color #F0F00080}40%{:reset} of damage dealt to the wearer.
+---
+20498: {:icon remembrance}
+---
+20499: {:icon tranquil}
+---
+20535: Struggle
+---
+20536: Reset
+---
+20537: Break
+---
+20538: Frontier Puzzle Piece
+---
+20551: Frontier Puzzle Piece
+---
+20555: Frontier Puzzle Piece
+---
+20558: Frontier Puzzle Piece
+---
+20561: Frontier Puzzle Piece
+---
+20564: Frontier Puzzle Piece
+---
+20571: Frontier Puzzle Piece
+---
+20574: Frontier Puzzle Piece
+---
+20576: Frontier Puzzle Piece
+---
+20577: Frontier Puzzle Piece
+---
+20579: Frontier Puzzle Piece
+---
+20580: Frontier Puzzle Piece
+---
+20623: Executive's Ring
+---
+20624: Immensely increases maximum AP.
+---
+20626: Sunset Puzzle Piece
+---
+20627: Sunset Puzzle Piece
+---
+20628: Sunset Puzzle Piece
+---
+20629: Sunset Puzzle Piece
+---
+20630: Sunset Puzzle Piece
+---
+20631: Sunset Puzzle Piece
+---
+20632: Sunset Puzzle Piece
+---
+20633: Sunset Puzzle Piece
+---
+20634: Sunset Puzzle Piece
+---
+20635: Sunset Puzzle Piece
+---
+20636: Sunset Puzzle Piece
+---
+20637: Sunset Puzzle Piece
+---
+20640: Sunset Puzzle Piece
+---
+20642: Sunset Puzzle Piece
+---
+20643: Sunset Puzzle Piece
+---
+20644: Sunset Puzzle Piece
+---
+20645: Sunset Puzzle Piece
+---
+20646: Sunset Puzzle Piece
+---
+20647: Sunset Puzzle Piece
+---
+20648: Sunset Puzzle Piece
+---
+20653: Sunset Puzzle Piece
+---
+20654: Sunset Puzzle Piece
+---
+20656: Sunset Puzzle Piece
+---
+20657: Sunset Puzzle Piece
+---
+20658: Sunset Puzzle Piece
+---
+20659: Sunset Puzzle Piece
+---
+20660: Sunset Puzzle Piece
+---
+20661: Sunset Puzzle Piece
+---
+20662: Sunset Puzzle Piece
+---
+20663: Sunset Puzzle Piece
+---
+20664: Sunset Puzzle Piece
+---
+20665: Sunset Puzzle Piece
+---
+20666: Sunset Puzzle Piece
+---
+20667: Sunset Puzzle Piece
+---
+20668: Sunset Puzzle Piece
+---
+20669: Sunset Puzzle Piece
+---
+20670: Sunset Puzzle Piece
+---
+20671: Sunset Puzzle Piece
+---
+20672: Sunset Puzzle Piece
+---
+20673: Sunset Puzzle Piece
+---
+20675: Sunset Puzzle Piece
+---
+20676: Sunset Puzzle Piece
+---
+20677: Sunset Puzzle Piece
+---
+20678: Sunset Puzzle Piece
+---
+20679: Sunset Puzzle Piece
+---
+20680: Sunset Puzzle Piece
+---
+20681: Sunset Puzzle Piece
+---
+20682: Sunset Puzzle Piece
+---
+20683: Get 50 types of Materials.
+---
+20684: Get 55 types of Materials.
+---
+20685: Obtain all {:icon remembrance}remembrance Materials.
+---
+20686: Obtain all {:icon tranquil}tranquility Materials.
+---
+20694: Struggle
+---
+20695: Smash
+---
+21364: Look Up
+---
+21375: Shaman's Relic+
+---
+21376: A staff with great magic and strength.
+Defense will increase by {:color #F0F00080}3{:reset} in
+critical situations.
+---
+21377: Akashic Record+
+---
+21378: A shield with great strength.
+Increases MP restoration speed by {:color #F0F00080}50%{:reset}
+when all MP is consumed.
+---
+21469: Dispel
+---
+21563: Fall
+---
+21564: Escape
+---
+21567: Horror
+---
+21568: New Realm
+---
+21569: Deceit
+---
+21570: Doubt
+---
+21571: Phantasm
+---
+21572: Hide
+---
+21573: Envision
+---
+21574: Illusion
+---
+21575: Ruse
+---
+21576: Dupe
+---
+21577: Plan
+---
+21578: Delusion
+---
+21579: Mirage
+---
+21580: Imagine
+---
+21581: Conspire
+---
+21582: Cheat
+---
+21583: Scheme
+---
+21584: Grab
+---
+21585: Trap
+---
+21586: Trick
+---
+21587: Enigma
+---
+21588: Fraud
+---
+21589: Twist
+---
+21590: Take Over
+---
+21591: Contrive
+---
+21592: Vision
+---
+21593: Phony
+---
+21594: Riddle
+---
+21595: Fade
+---
+21596: Plot
+---
+21597: Specter
+---
+21598: Puzzle
+---
+21599: Mystery
+---
+21600: Infinity
+---
+21601: Daydream
+---
+21602: Mist
+---
+21603: Lexicon
+---
+21604: Ambush
+---
+21605: Retrieve
+---
+21606: Liberate
+---
+21607: Return
+---
+21608: Jackpot
+---
+21609: Heal
+---
+21610: Spirit
+---
+21611: Bounty
+---
+21612: Wealth
+---
+21613: Stamina
+---
+21614: Treasure
+---
+21615: Mend
+---
+21616: Riches
+---
+21617: Bonus
+---
+21618: Herb
+---
+21619: Lucky
+---
+21620: Destroy
+---
+21621: Expose
+---
+21622: Detection
+---
+22000: {:icon dynamic-left-analog}
+Skateboard controls
+---
+22001: {:icon dynamic-triangle}{:color #FFEC1980} Reaction command{:reset}
+Deliver letter
+{:icon dynamic-cross}{:icon dynamic-square}{:icon dynamic-circle}{:color #FFEC1980} Tricks{:reset}
+Combine to 
+perform various tricks
+---
+22002: {:icon dynamic-triangle}{:color #FFEC1980} Grind{:reset}
+Perform tricks on 
+platform edges
+{:icon dynamic-cross}{:icon dynamic-square}{:icon dynamic-circle}{:color #FFEC1980} Tricks Grind{:reset}
+Combine to 
+perform various tricks
+---
+22003: {:color #FFEC1980}Search for available areas{:reset} and 
+press {:icon dynamic-triangle} to put up the poster.
+---
+22004: ⤷ When there is more than one available area 
+     {:color #FFEC1980}press {:icon dynamic-triangle} rapidly{:reset} to put up the posters!
+---
+22005: ⤷ {:color #FFEC1980}Complete the job quickly to{:reset}
+     earn lots of munny!
+---
+22006: Press {:icon dynamic-triangle} to {:color #FFEC1980}reload 
+the cannon{:reset} with toys!
+---
+22007: Press {:icon dynamic-cross} in tune with the {:color #FFEC1980}song and gauge!{:reset}
+---
+22008: ⤷ Press {:icon dynamic-cross} when the gauge is {:color #FFEC1980}about to
+    run out{:reset} to get a {:color #FFEC1980}high score (Excellent){:reset}.
+---
+22009: ⤷ Pressing {:icon dynamic-cross} {:color #FFEC1980}too quickly{:reset} or {:color #FFEC1980}not pressing it{:reset}
+    at all will result in a {:color #FFEC1980}low score (Bad){:reset}.
+---
+22010: ⤷ Press {:icon dynamic-cross} when the gauge is {:color #FFEC1980}about to
+    run out{:reset} to get a {:color #FFEC1980}high score (Excellent){:reset}.
+---
+22011: ⤷ {:color #FFEC1980}Good{:reset} and {:color #FFEC1980}Bad{:reset} performances don´t earn Notes.
+---
+22012: ⤷ A Note will {:color #FFEC1980}disappear{:reset} with every {:color #FFEC1980}Bad{:reset} performance.
+---
+22013: ⤷ This time, a {:icon dynamic-triangle} {:color #FFEC1980}gauge will appear!{:reset}
+    Press {:icon dynamic-triangle} in tune with the song and gauge!
+---
+22014: ⤷ Time it correctly! Scoring a {:color #FFEC1980}Good{:reset} or {:color #FFEC1980}Bad{:reset} will {:color #FFEC1980}end
+    the combo{:reset}!
+---
+22015: ⤷ Press {:icon dynamic-square} when the gauge shows {:color #FFEC1980}Ariel{:reset} to
+    score points and lift Ariel´s mood.
+---
+22016: ⤷ Be sure not to press {:icon dynamic-square} when the gauge shows
+    {:color #FFEC1980}Sebastian{:reset}!
+---
+22017: ⤷ A {:color #FFEC1980}new Gauge{:reset} has appeared!
+    {:color #FFEC1980}Press {:icon dynamic-cross} rapidly{:reset} to defeat Ursula!
+---
+22018: {:icon dynamic-left-analog-left}{:icon dynamic-left-analog-right}
+Move left/right
+---
+22019: {:color #FFEC1980}Turn left{:reset} with {:icon dynamic-l1}/{:icon dynamic-l2}
+{:color #FFEC1980}Turn right{:reset} with {:icon dynamic-r1}/{:icon dynamic-r2}
+Turn when LEFT/RIGHT
+appears on screen.
+---
+22020: {:icon dynamic-cross} {:color #FFEC1980}Attack{:reset}
+---
+22021: {:icon dynamic-square} {:color #FFEC1980}Charge{:reset}
+---
+22022: {:icon dynamic-circle} {:color #FFEC1980}Guard{:reset}
+---
+22023: {:icon dynamic-l2} {:color #FFEC1980}Lock Commands{:reset}
+While pressed, use {:icon dynamic-right-analog} 
+to control commands.
+
+{:icon dynamic-left-analog}
+Move Front/Back/Left/Right
+---
+22024: {:icon dynamic-r2} {:color #FFEC1980}Lock Camera{:reset}
+While pressed, use {:icon dynamic-right-analog} 
+to control the camera.
+
+{:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}
+Move Up/Down
+---
+22025: ⤷ Use {:icon dynamic-cross} to attack enemies from a distance!
+---
+22026: If Pooh falls off,
+{:color #FFEC1980}press {:icon dynamic-triangle} to grab him again{:reset}.
+Keep an eye on the clock!
+---
+22027: ⤷ Press {:icon dynamic-cross} to hit incoming objects!
+---
+22028: ⤷ Press {:icon dynamic-triangle} to save {:color #FFEC1980}Piglet!{:reset}
+---
+22029: Press {:icon dynamic-triangle} after hitting an obstacle
+to rescue Pooh, or Pooh will
+{:color #FFEC1980}continue to lose health{:reset}.
+---
+22030: ⤷ {:color #FFEC1980}Press and hold {:icon dynamic-square} to move left and right quickly.{:reset}
+---
+22031: ⤷ The game is over when Pooh has {:color #FFEC1980}run out of HP{:reset}.
+---
+22032: ⤷ Gopher will help Sora with an obstacle {:color #FFEC1980}one time{:reset}!
+---
+22033: Press {:icon dynamic-triangle} after hitting an obstacle
+or Pooh will continue to lose health.
+{:color #FFEC1980}Pooh must be with Sora to collect Orbs{:reset}.
+---
+22034: ⤷ {:color #FFEC1980}Press and hold {:icon dynamic-square} to move left and right quickly.{:reset}
+---
+22035: ⤷ Gopher will help Sora with an obstacle one time!
+---
+22036: {:scale 14}⤷ Time your jump on the trampoline by pressing {:icon dynamic-triangle} 
+    at the right time for a {:color #FFEC1980}special jump{:reset}!
+---
+22037: {:scale 14}⤷ Time your bounce on the balloon by pressing {:icon dynamic-triangle}
+    at the right time for a {:color #FFEC1980}special bounce{:reset}!
+---
+22038: ⤷ {:color #FFEC1980}Bounce{:reset} from balloon to balloon by pressing {:icon dynamic-triangle}  
+    at the right time. {:color #FFEC1980}Pop as many balloons as possible{:reset}!
+---
+22039: ⤷ Whenever Sora falls from a balloon to the
+    trampoline, the player loses one of their tries.
+    The game is over when {:color #FFEC1980}zero tries are left{:reset}.
+---
+22040: ⤷ Press {:icon dynamic-triangle} to stop the {:color #FFEC1980}Power Gauge{:reset}
+    and begin swinging!
+---
+22041: ⤷ Press {:icon dynamic-triangle} while swinging to choose
+    the direction to {:color #FFEC1980}send the pot flying{:reset}!
+---
+22042: ⤷ Press {:icon dynamic-triangle} in mid-swing to {:color #FFEC1980}throw in that direction{:reset}.
+---
+22043: ⤷ Fill the Power Gauge to throw the pot as far as possible!
+---
+22044: Press {:icon dynamic-start} to quit during the song.
+---
+22045: ⤷ Press {:icon dynamic-triangle} to stop the {:color #FFEC1980}Power Gauge{:reset} and begin swinging!
+---
+22046: {:icon dynamic-triangle} toggles MP Charge on/off.
+---
+22047: Use {:icon dynamic-triangle} to change Abilities.
+---
+22048: {:icon dynamic-triangle}  toggles Auto-Reload on/off.
+---
+22049: Use {:icon dynamic-left-analog} to turn the Gummi Ship 
+and press {:icon dynamic-cross} to {:color #FFEC1980}fire{:reset}!
+---
+22050: Use {:icon dynamic-circle} to {:color #00FA3080}roll{:reset}!
+---
+22051:  {:color #FFEC1980}Press down{:reset} {:icon dynamic-cross} to {:color #00FA3080}lock onto{:reset} a target!
+---
+22052: After {:color #00FA3080}locking onto{:reset} a target, release {:icon dynamic-cross} to fire!
+---
+22053: Fill the Slash Gauge in the lower left corner 
+by defeating enemies.
+Once full, press {:icon dynamic-triangle} to use {:color #00FA3080}Slash Gummies{:reset}!
+---
+22054: Use {:icon dynamic-triangle} to {:color #FFEC1980}fire all Slashes{:reset} stocked in the {:color #00FA3080}Slash Gauge{:reset}!
+---
+22055: With two types of {:color #FFEC1980}Slash Gummies{:reset},
+press {:icon dynamic-triangle} rapidly for a {:color #00FA3080}Slash Combo{:reset}!
+---
+22056: Use {:icon dynamic-l2}  and  {:icon dynamic-r2} to change the {:color #00FA3080}formation{:reset}
+of the {:color #FFEC1980}Teeny Ships{:reset}!
+---
+22057: Use {:icon dynamic-square} to have the Teeny Ships form 
+into {:color #00FA3080}EX-Formation{:reset}!
+---
+22058: Use{:icon dynamic-l1} or {:icon dynamic-r1} to
+{:color #FFEC1980}move the camera{:reset}!
+---
+22059: Press {:icon dynamic-l1} and {:icon dynamic-r1} {:color #FFEC1980}simultaneously{:reset} to 
+rotate the camera 180°!
+---
+22060: ⤷ {:color #FFEC1980}All gauges{:reset} will be used in this challenge!
+---
+22061: ⤷ Be sure not to do anything when the gauge 
+    {:color #FFEC1980}shows Sebastian{:reset}!
+---

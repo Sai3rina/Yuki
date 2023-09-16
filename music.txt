@@ -1,0 +1,18 @@
+
+#Musik
+- name: vagstream\Title.win32.scd #Dearly Beloved
+  method: copy
+  source:
+  - name: Music\Hikari.sc
+- name: vagstream\End_Piano.win32.scd #Dearly Beloved -Reprise-
+  method: copy
+  source:
+  - name: Music\dSanctuary.scd
+- name: bgm\music188.win32.scd #One-Winged Angel
+  method: copy
+  source:
+  - name: Music\Hollow_Bastion_Scherzo_Di_Notte.scd
+- name: bgm\music146.win32.scd #Roxas
+  method: copy
+  source:
+  - name: Music\RageAwakend.scd
